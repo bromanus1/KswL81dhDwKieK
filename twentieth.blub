@@ -1,0 +1,1157 @@
+#EXTM3U generation-date="2025.06.07 01:48:36 MSK" url-tvg="http://epg.team/tvteam.3.1.xml"
+
+#EXTINF:0 tvg-id="Первый HD"  tvg-logo="http://team.ga/images/chIcons/1.png"  timeshift="6", Первый HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch001/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbe2Lf2_wPmmCh-gQcHy5rZOfd_9rczxYzkU0ZHKSiZ9
+
+#EXTINF:0 tvg-id="Россия 1 HD"  tvg-logo="http://team.ga/images/chIcons/2.png"  timeshift="6", Россия 1 HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch002/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbkHFW49JAP2asNMALDziJpJK8PX05aySNTjhIFz6dkg
+
+#EXTINF:0 tvg-id="Россия-Культуpa"  tvg-logo="http://team.ga/images/chIcons/102.png"  timeshift="6", Россия-Культуpa
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch102/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJeI6VVNV7L9V61AsuyCu8TkadMvD_Xu_x2Hb0KCU8eK5
+
+#EXTINF:0 tvg-id="РТР Планета"  tvg-logo="http://team.ga/images/chIcons/337.png"  timeshift="6", РТР Планета
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch337/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJa0y_UJIkM6Op1QmLTWg0714yFNOfKthwRm-qfrxqD09
+
+
+#EXTINF:0 tvg-id="Рен ТВ HD"  tvg-logo="http://team.ga/images/chIcons/4.png"  timeshift="6", Рен ТВ HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch004/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb4Za0PBVe9rJ1qgL9ySJFTKWnPXLqiS59AaxN6IW_BE
+
+#EXTINF:0 tvg-id="НТВ HD"  tvg-logo="http://team.ga/images/chIcons/3.png"  timeshift="6", НТВ HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch003/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdbTm6zQQko9A9Ca5Tbaze9JAO-jIMrvbKX9PZtkrLVT
+
+#EXTINF:0 tvg-id="СТС HD"  tvg-logo="http://team.ga/images/chIcons/21.png"  timeshift="6", СТС HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch021/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaNKDjhje87PRbZxNQjuUSEbaFjFphDiw9oo9rDXqrRA
+
+
+#EXTINF:0 tvg-id="ТНТ HD"  tvg-logo="http://team.ga/images/chIcons/5.png"  timeshift="6", ТНТ HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch005/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJferJnYjMSGReYnKYe3RZ3gsuO1P0hwiLeiwkFagRXwK
+
+
+#EXTINF:0 tvg-id="Москва 24"  tvg-logo="http://team.ga/images/chIcons/6.png"  timeshift="6", Москва 24
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch006/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb4zbnLUkvApc5pU_-KCHVU1P4oZh4T8osue_ldNTpwV
+
+
+#EXTINF:0 tvg-id="ТВЦ HD"  tvg-logo="http://team.ga/images/chIcons/22.png"  timeshift="6", ТВЦ HD
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch022/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJX17VKHiAcudGFpiaU90NARjYoqkOJMrRjy_pzGT5hRj
+
+
+#EXTINF:0 tvg-id="Звезда"  tvg-logo="http://team.ga/images/chIcons/23.png"  timeshift="6", Звезда
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch023/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRmtzPE15mBnfObDqN1yNyCFDDN3IMBQ_qPn2nmHHNcN
+
+
+#EXTINF:0 tvg-id="Домашний"  tvg-logo="http://team.ga/images/chIcons/110.png"  timeshift="6", Домашний
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch110/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJW4ad1T2xwVj0yfUpBDa6pYoZHY7mB-Gk58XL--OIRO4
+
+
+#EXTINF:0 tvg-id="Пятый Канал"  tvg-logo="http://team.ga/images/chIcons/68.png"  timeshift="6", Пятый Канал
+#EXTGRP:1. Federal/Федеральные
+http://4.team.ga:80/ch068/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXt-_qAfB-MIUWypQtdL0s4pf5TPRbYaAQ8gJLWtjQgV
+
+
+#EXTINF:0 tvg-id="Pоссия 24"  tvg-logo="http://team.ga/images/chIcons/7.png"  timeshift="3", Pоссия 24
+#EXTGRP:2. News/Новости
+http://4.team.ga:80/ch007/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJThmCFQq5wyFqPFGbpB9SH_egJfbH_KJ4-XQrh8PfGcs
+
+
+#EXTINF:0 tvg-id="Дождь HD"  tvg-logo="http://team.ga/images/chIcons/88.png"  timeshift="6", Дождь HD
+#EXTGRP:2. News/Новости
+http://4.team.ga:80/ch088/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfSuoTku9ZDRWk2y8dVB9KUUD6o49DUjsPsDheZ5sKWF
+
+
+#EXTINF:0 tvg-id="РБК НD"  tvg-logo="http://team.ga/images/chIcons/99.png"  timeshift="0", РБК НD
+#EXTGRP:2. News/Новости
+http://4.team.ga:80/ch099/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSgs8eJ6i-iDD76LzKJqnhBIDlLnhROPB1aL3gKqU3di
+
+
+#EXTINF:0 tvg-id="RTVI"  tvg-logo="http://team.ga/images/chIcons/100.png"  timeshift="6", RTVI
+#EXTGRP:2. News/Новости
+http://4.team.ga:80/ch100/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWVHYEf8Wnwj4m8TbevukM94PtaDxXw4vsU6mjC3a9P8
+
+
+#EXTINF:0 tvg-id="Киносемья HD"  tvg-logo="http://team.ga/images/chIcons/8.png"  timeshift="6", Киносемья HD
+#EXTGRP:3. Movies/Кино
+http://4.team.ga:80/ch008/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbwfAjgFwfM8p_lCI10eMersXY_virxz-BhvhNPJiXUr
+
+
+#EXTINF:0 tvg-id="Кинокомедия HD"  tvg-logo="http://team.ga/images/chIcons/460.png"  timeshift="6", Кинокомедия HD
+#EXTGRP:3. Movies/Кино
+http://4.team.ga:80/ch460/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfdfJlILUv4VCquIhu45ZHLK9sKVBhXx_bZ6yRkt7VDE
+
+
+
+#EXTINF:0 tvg-id="Русская комедия"  tvg-logo="http://team.ga/images/chIcons/105.png"  timeshift="6", Русская комедия
+#EXTGRP:3. Movies/Кино
+http://4.team.ga:80/ch105/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRPvkvscbMQQLiwJbGBe7sV9gqbHpEXk1-Dv_-QXP5W9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="Матч! SD"  tvg-logo="http://team.ga/images/chIcons/2126.png"  timeshift="3", Матч! SD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2126/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUD5neyazUFoFPyGDemYWOjaDk5-0YCFyh5AGrmsn3Ef
+#EXTINF:0 tvg-id="Матч! Футбол 1 SD"  tvg-logo="http://team.ga/images/chIcons/2123.png"  timeshift="3", Матч! Футбол 1 SD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2123/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYJu0N5mrcKbWw9oFpaY42QhyAOQ-MD58X-gklgkrozN
+#EXTINF:0 tvg-id="Матч! Футбол 2 SD"  tvg-logo="http://team.ga/images/chIcons/2124.png"  timeshift="3", Матч! Футбол 2 SD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2124/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJeUWpvz84tacOhP0dgD639lJINxQHf-7OUS7FG1G7yy4
+#EXTINF:0 tvg-id="Матч! Футбол 3 SD"  tvg-logo="http://team.ga/images/chIcons/2125.png"  timeshift="3", Матч! Футбол 3 SD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2125/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJW31DD_WMbjV7yx_-lpiTYDSzdnQgTojsGY5DQpvxGgX
+#EXTINF:0 tvg-id="Матч! Премьер SD"  tvg-logo="http://team.ga/images/chIcons/2005.png"  timeshift="3", Матч! Премьер SD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2005/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYrXEa7mFA6UCadCLtDv9v5ohUJbVSjG0dyNVGtmL-K-
+#EXTINF:0 tvg-id="Матч! Игра SD"  tvg-logo="http://team.ga/images/chIcons/3304.png"  timeshift="3", Матч! Игра SD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3304/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQ6tSeShkPcvh6VvBd3m0UuepMTCqGd7gX64BdJTa6wu
+#EXTINF:0 tvg-id="Мяч HD"  tvg-logo="http://team.ga/images/chIcons/708.png"  timeshift="0", Мяч HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch708/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRFexvTKngnaIO5t0qA0Nv5-8dQ6UYT4lzug0fcxYimi
+#EXTINF:0 tvg-id="ТВ Спорт HD"  tvg-logo="http://team.ga/images/chIcons/447.png"  timeshift="0", ТВ Спорт HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch447/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSrSQph5DXcXxWGX0t-qqbphHQ3UDx69-OEoY1r2bWZC
+#EXTINF:0 tvg-id="Хоккей ТВ HD"  tvg-logo="http://team.ga/images/chIcons/663.png"  timeshift="0", Хоккей ТВ HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch663/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbGl2_2Byv7aIAq_hpiAtqS77OGoGKqY_Zor0gPiBEsr
+#EXTINF:0 tvg-id="Extreme Sports"  tvg-logo="http://team.ga/images/chIcons/476.png"  timeshift="3", Extreme Sports
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch476/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTo9zxBfV5_o7YlVV_mBvcsxzW5nayWFd_DRwrhb0fB2
+#EXTINF:0 tvg-id="Живи!"  tvg-logo="http://team.ga/images/chIcons/530.png"  timeshift="0", Живи!
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch530/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQBFG0C3zGNhoPQES5cXPOIofjeZ1zQluvq3max49hoj
+#EXTINF:0 tvg-id="Живи Активно HD"  tvg-logo="http://team.ga/images/chIcons/1880.png"  timeshift="0", Живи Активно HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch1880/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf0x7N9FQMBCmBYFkcuKv1CrpIHC4M8I4sDAseNA47K1
+#EXTINF:0 tvg-id="Драйв"  tvg-logo="http://team.ga/images/chIcons/536.png"  timeshift="0", Драйв
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch536/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRFgmR27hIMxwTbHnMP4HXorHiM1YZc285pGfKinCE2M
+#EXTINF:0 tvg-id="Старт HD"  tvg-logo="http://team.ga/images/chIcons/662.png"  timeshift="3", Старт HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch662/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZVmPK1ZVpaL6i1xw1m43IVfVDtjjTgciJDuBlDtdMGH
+#EXTINF:0 tvg-id="Старт Триумф HD"  tvg-logo="http://team.ga/images/chIcons/2502.png"  timeshift="3", Старт Триумф HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2502/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZRz5oFBEhdsWUkd40CpO8QTS8pSt2E_l7KgQ87rZ2J5
+#EXTINF:0 tvg-id="Мир Баскетбола"  tvg-logo="http://team.ga/images/chIcons/567.png"  timeshift="0", Мир Баскетбола
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch567/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXV4HkSNHjnyxhzJrlfmz5n6NPqbFB9ErAqHd-RBOQHv
+#EXTINF:0 tvg-id="Box AutoTrend HD"  tvg-logo="http://team.ga/images/chIcons/2810.png"  timeshift="3", Box AutoTrend HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2810/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSIt8fzCqpUWMQndWP1VunSEl9IonpS--jksWQlG6l7F
+#EXTINF:0 tvg-id="Box Be ON Edge HD"  tvg-logo="http://team.ga/images/chIcons/2282.png"  timeshift="3", Box Be ON Edge HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2282/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVVLoej82kvHBJIfYFij3LTWFpq1Ed7o9oJpbrrF1A_d
+#EXTINF:0 tvg-id="Box Be ON Edge 1 Live HD"  tvg-logo="http://team.ga/images/chIcons/2283.png"  timeshift="3", Box Be ON Edge 1 Live HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2283/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVdCwEchBKDd0CebOXQCc-73RXcuNmp9CyKjU6QPhWvN
+#EXTINF:0 tvg-id="Box Be ON Edge 2 Live HD"  tvg-logo="http://team.ga/images/chIcons/2284.png"  timeshift="3", Box Be ON Edge 2 Live HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2284/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZ3cZxdA45rY9VD8mUqwuRZw7qCs0Qsp6Ob2CvGYbzUu
+#EXTINF:0 tvg-id="Box Be ON Edge Live 3 HD"  tvg-logo="http://team.ga/images/chIcons/711.png"  timeshift="7", Box Be ON Edge Live 3 HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch711/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaTnDjzKMD9LDtvvSdPD9CDutOwhr4-rKcbKJRdJ-Bae
+#EXTINF:0 tvg-id="Box Sport Cast 1 Live"  tvg-logo="http://team.ga/images/chIcons/2336.png"  timeshift="3", Box Sport Cast 1 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2336/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRRivGUbO_kVWSO0blcC4gyoT7wuM4u7Qd5p8_3I9nq5
+#EXTINF:0 tvg-id="Box Sport Cast 2 Live"  tvg-logo="http://team.ga/images/chIcons/2337.png"  timeshift="3", Box Sport Cast 2 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2337/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJe_nraHYHM8LabaJChcHT7cmz81pIyjr-Hpp5Ck7Fesp
+#EXTINF:0 tvg-id="Box Sport Cast 3 Live"  tvg-logo="http://team.ga/images/chIcons/2338.png"  timeshift="3", Box Sport Cast 3 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2338/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSzIs2gyt4uIb13oAjEvOdzUEVo8_QYE9xtxWXSBT7gI
+#EXTINF:0 tvg-id="Box Sport Cast 4 Live"  tvg-logo="http://team.ga/images/chIcons/2339.png"  timeshift="3", Box Sport Cast 4 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2339/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJa48YK7mhAeYcC4cRT2mcetsa-uiiQQuPhrZPM_X7cWQ
+#EXTINF:0 tvg-id="Box Sport Cast 5 Live"  tvg-logo="http://team.ga/images/chIcons/2340.png"  timeshift="3", Box Sport Cast 5 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2340/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJR7RyHl8JJMAgd8_9U1JilNzAeQpx94ERbiO-cG4Jeuv
+#EXTINF:0 tvg-id="Box Sport Cast 6 Live"  tvg-logo="http://team.ga/images/chIcons/2465.png"  timeshift="0", Box Sport Cast 6 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2465/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbkWdyko9LTRyXFvlpkEjAU1SNl_yUbm95V0NkC1cB-D
+#EXTINF:0 tvg-id="Box Sport Cast 7 Live"  tvg-logo="http://team.ga/images/chIcons/2466.png"  timeshift="0", Box Sport Cast 7 Live
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2466/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYGpA5H5cw-mE41WG7zE9cU7Zg5k6ZCefnwb3C-5zSNu
+#EXTINF:0 tvg-id="Box Sport Cast Live 8"  tvg-logo="http://team.ga/images/chIcons/1819.png"  timeshift="0", Box Sport Cast Live 8
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch1819/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbyT5aZPsGweHWnWTbkRqI3ptnE33J7OVJ4PYIevfe-p
+#EXTINF:0 tvg-id="Box Sport Cast Live 9"  tvg-logo="http://team.ga/images/chIcons/700.png"  timeshift="0", Box Sport Cast Live 9
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch700/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZYCGxhmHhL_bmltm22jU3KZnO4BcVyot1j-aQydMO5E
+#EXTINF:0 tvg-id="Box Sport Cast HD"  tvg-logo="http://team.ga/images/chIcons/2467.png"  timeshift="3", Box Sport Cast HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2467/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbG-53c678n2Zi_BOk24b9S2FaiojBwdg8zwO-lYRUB7
+#EXTINF:0 tvg-id="Liberty Автогир FHD"  tvg-logo="http://team.ga/images/chIcons/1768.png"  timeshift="3", Liberty Автогир FHD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch1768/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWAzPZAw8hwDB91GT4uQp-XatqL54hLHz5BojnCoXIDS
+#EXTINF:0 tvg-id="CineMan Фитнес"  tvg-logo="http://team.ga/images/chIcons/2923.png"  timeshift="0", CineMan Фитнес
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2923/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcAS5Uu5BSEOLuDqSoPvGn1IKAXAW3aUieUKTI9PmrOt
+#EXTINF:0 tvg-id="Velilla TV Legendary Matches HD"  tvg-logo="http://team.ga/images/chIcons/2036.png"  timeshift="0", Velilla TV Legendary Matches HD
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2036/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJT8aWkUSDbUiqml0OjPsEwUz5nRTKM1f2JGAbIEYxB_N
+#EXTINF:0 tvg-id="Velilla TV EuroCup 1984"  tvg-logo="http://team.ga/images/chIcons/3155.png"  timeshift="0", Velilla TV EuroCup 1984
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3155/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYMvm1FcJU5aVYSskjUKs2fbtiiLp1elVxWuyq8x352z
+#EXTINF:0 tvg-id="Velilla TV EuroCup 1988"  tvg-logo="http://team.ga/images/chIcons/3156.png"  timeshift="0", Velilla TV EuroCup 1988
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3156/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWe3gpOMd_cSe6lsfiJ4-chuibl6u3afkprVW3Pwcehp
+#EXTINF:0 tvg-id="Velilla TV EuroCup 1992"  tvg-logo="http://team.ga/images/chIcons/1088.png"  timeshift="0", Velilla TV EuroCup 1992
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch1088/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfKeE1AHcYJtrvNw0Ui676EJQ9ET-WC-viSwDsIoAdsz
+#EXTINF:0 tvg-id="Velilla TV World Cup 1970"  tvg-logo="http://team.ga/images/chIcons/3112.png"  timeshift="0", Velilla TV World Cup 1970
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3112/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaY1zyBm3JDp51d7WXjNJFf1kI6y_RvT0pd6fOwwfz5R
+#EXTINF:0 tvg-id="Velilla TV World Cup 1974"  tvg-logo="http://team.ga/images/chIcons/828.png"  timeshift="0", Velilla TV World Cup 1974
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch828/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUzQCOXZ1KiYZ_ga8V1rMggbIE1fdlKKQdsLTitIQRUU
+#EXTINF:0 tvg-id="Velilla TV World Cup 1978"  tvg-logo="http://team.ga/images/chIcons/2116.png"  timeshift="0", Velilla TV World Cup 1978
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch2116/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJap9r9L6gnNsykQwhd5GhbPKrEexOf5xhanD6fyDsnct
+#EXTINF:0 tvg-id="Velilla TV World Cup 1994"  tvg-logo="http://team.ga/images/chIcons/3157.png"  timeshift="0", Velilla TV World Cup 1994
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3157/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUn39NkQN-LsU4L-_qEbSTXLaK91Y9ZxNVu6wx6Mot38
+#EXTINF:0 tvg-id="Velilla TV World Cup 1998"  tvg-logo="http://team.ga/images/chIcons/3297.png"  timeshift="0", Velilla TV World Cup 1998
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3297/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJebd8nu84ssXIOYrB95_YR1mHdbckrAq2fswI-LDLEZB
+#EXTINF:0 tvg-id="Velilla TV World Cup 2006"  tvg-logo="http://team.ga/images/chIcons/3158.png"  timeshift="0", Velilla TV World Cup 2006
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3158/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZEfiwBcA-EDppu5miSXtlyt3DZU8KGewptrS5xl6sJR
+#EXTINF:0 tvg-id="Velilla TV World Cup 2010"  tvg-logo="http://team.ga/images/chIcons/3159.png"  timeshift="0", Velilla TV World Cup 2010
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3159/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbgtHYh4XGO042sq2V2WZu_h1zjJuotQA550ENoobVMU
+#EXTINF:0 tvg-id="Velilla TV World Cup 2014"  tvg-logo="http://team.ga/images/chIcons/3160.png"  timeshift="0", Velilla TV World Cup 2014
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3160/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSaClLisN7YvwvU0B5fyq-dmzpNei3qACO2_O5pSmgui
+#EXTINF:0 tvg-id="Velilla TV World Cup 2018"  tvg-logo="http://team.ga/images/chIcons/3161.png"  timeshift="0", Velilla TV World Cup 2018
+#EXTGRP:8. Sport/Спорт
+http://4.team.ga:80/ch3161/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXGSfLXsOdK9vxCoGB7SZu2MuG_7zx9Ou1CFYrDH4Anx
+#EXTINF:0 tvg-id="MTV"  tvg-logo="http://team.ga/images/chIcons/30.png"  timeshift="0", MTV
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch030/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYbIOfepz3NfvRJH6gjbUpa7spgNd7_QYYWotBx89OoX
+#EXTINF:0 tvg-id="MTV Base HD"  tvg-logo="http://team.ga/images/chIcons/2766.png"  timeshift="0", MTV Base HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2766/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJR7Os2QpdmWsml8aBZAU1NyUQ5qnaVvt2ckJksYC3Uum
+#EXTINF:0 tvg-id="MTV Idol HD"  tvg-logo="http://team.ga/images/chIcons/2752.png"  timeshift="0", MTV Idol HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2752/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZTk3Cb8RuDUVszpIQpd3iYuLcGGzq47g8rBPLDMFcEg
+#EXTINF:0 tvg-id="MTV Pulse HD"  tvg-logo="http://team.ga/images/chIcons/2758.png"  timeshift="0", MTV Pulse HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2758/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVRIIji-7oKTXDCu8FGYxURU2y0frCIB91gERJgw25e3
+#EXTINF:0 tvg-id="MTV Live HD"  tvg-logo="http://team.ga/images/chIcons/552.png"  timeshift="0", MTV Live HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch552/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcEoBftTJv8v9BSkm1iiK5EX2R7T7ulcvGwUU8DAwhTW
+#EXTINF:0 tvg-id="MTV Club"  tvg-logo="http://team.ga/images/chIcons/31.png"  timeshift="0", MTV Club
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch031/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYPx8s3QTgX6A7BorBUGdO2WdQCaqNJkiOI3eQz0DBj7
+#EXTINF:0 tvg-id="MTV Hits"  tvg-logo="http://team.ga/images/chIcons/19.png"  timeshift="0", MTV Hits
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch019/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQCjf5FwL65GdGOvaYu0lJKWQkxvigkIcdq3tMoNChmW
+#EXTINF:0 tvg-id="MTV 80s"  tvg-logo="http://team.ga/images/chIcons/29.png"  timeshift="0", MTV 80s
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch029/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJc9G3lwEkjhh-stTE6pH2Juuy-d79F3DWkNbAhN2m2iQ
+#EXTINF:0 tvg-id="MTV 90s"  tvg-logo="http://team.ga/images/chIcons/594.png"  timeshift="0", MTV 90s
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch594/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYU32XQcFmx38vmJIjA5pMNMzgFUx43NcJ3HSg8QxzJ-
+#EXTINF:0 tvg-id="MTV 00s"  tvg-logo="http://team.ga/images/chIcons/28.png"  timeshift="0", MTV 00s
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch028/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXJGPIrwXbjR5rkPUqnbdGosaSywba1Y_ge9oB41ha8j
+#EXTINF:0 tvg-id="МУЗ"  tvg-logo="http://team.ga/images/chIcons/20.png"  timeshift="0", МУЗ
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch020/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWE8_mKqQmJHR65e3mjDXxEa58G_T-JDD_TB2fQ5idgx
+#EXTINF:0 tvg-id="1HD Music HD"  tvg-logo="http://team.ga/images/chIcons/328.png"  timeshift="0", 1HD Music HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch328/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXZqFyPlCQTPm8zemAy_HFfbOZx_gVPpFFOFDQ-8Xnfu
+#EXTINF:0 tvg-id="RU.TV"  tvg-logo="http://team.ga/images/chIcons/27.png"  timeshift="0", RU.TV
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch027/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJd3K6kUEGlAm05MG2_oF2k3skeAUWvn_0aGfCnNIaFoo
+#EXTINF:0 tvg-id="Bridge TV"  tvg-logo="http://team.ga/images/chIcons/490.png"  timeshift="0", Bridge TV
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch490/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcLj54wirbp6yz1OMj0xksf67MT_ORz67g5Fdb5T8WM_
+#EXTINF:0 tvg-id="Bridge TV Deluxe HD"  tvg-logo="http://team.ga/images/chIcons/491.png"  timeshift="0", Bridge TV Deluxe HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch491/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZHO0eWoGYoVIBgEyo0aLrSXbaZMTjp1_448MNSCu4Z5
+#EXTINF:0 tvg-id="Bridge TV Classic"  tvg-logo="http://team.ga/images/chIcons/492.png"  timeshift="0", Bridge TV Classic
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch492/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSag5_acQdJJHbl_GJ_Oti--ARnq_UBwTqla7cjkR6wb
+#EXTINF:0 tvg-id="Bridge TV Hits HD"  tvg-logo="http://team.ga/images/chIcons/493.png"  timeshift="0", Bridge TV Hits HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch493/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQlNQiI-JRTozooADMi2f_UrXHgG8F1oBl7O784OcSO_
+#EXTINF:0 tvg-id="Bridge TV Русский хит"  tvg-logo="http://team.ga/images/chIcons/494.png"  timeshift="0", Bridge TV Русский хит
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch494/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXU5FvXNAbyshyP17LfjE3Y5MBIPz3kNpVLVPFnLvxMU
+#EXTINF:0 tvg-id="Bridge TV Rock HD"  tvg-logo="http://team.ga/images/chIcons/644.png"  timeshift="0", Bridge TV Rock HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch644/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVIyQJirXWRVNGNPUvazFtwD6NWXuhOguq7YlG2TtHfu
+#EXTINF:0 tvg-id="Bridge TV Шлягер"  tvg-logo="http://team.ga/images/chIcons/548.png"  timeshift="0", Bridge TV Шлягер
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch548/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU7-T3ucUzzTBUOIfVACrzgHpvbQ6upRsS0Svb5iBDLM
+#EXTINF:0 tvg-id="Bridge TV Fresh"  tvg-logo="http://team.ga/images/chIcons/2754.png"  timeshift="0", Bridge TV Fresh
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2754/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdfiq0yFyKBpDVfVMVCteuWoxENarND7nVOKpybFipBi
+#EXTINF:0 tvg-id="Mezzo Live HD"  tvg-logo="http://team.ga/images/chIcons/130.png"  timeshift="0", Mezzo Live HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch130/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJS2IE0S-Gz0kTz5MmBM9X2Grh1XZrKcq7WglaQDjue-Z
+#EXTINF:0 tvg-id="iConcerts HD"  tvg-logo="http://team.ga/images/chIcons/324.png"  timeshift="3", iConcerts HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch324/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJalARHHk9UXghaSyQ_fIJzJj2amo5uIGjPHcealiuTSy
+#EXTINF:0 tvg-id="Шансон TB"  tvg-logo="http://team.ga/images/chIcons/325.png"  timeshift="0", Шансон TB
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch325/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb6cAsvmrZmoo9JFyGyyVeUDWB5MkkTBPMHZPHJukehd
+#EXTINF:0 tvg-id="MCM TOP"  tvg-logo="http://team.ga/images/chIcons/497.png"  timeshift="0", MCM TOP
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch497/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf5pmSarBfZd1PMHtJqsbNt_jRU8G7tsUVJOIESQqntz
+#EXTINF:0 tvg-id="Музыка Live"  tvg-logo="http://team.ga/images/chIcons/523.png"  timeshift="0", Музыка Live
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch523/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcW_rbPTRDqI5Epm5Tsp7ezDU8gYOzfZaLkX0pCaBMaQ
+#EXTINF:0 tvg-id="Жара HD"  tvg-logo="http://team.ga/images/chIcons/529.png"  timeshift="0", Жара HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch529/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbYAX6lcqJYe8B-oR4P0sJuBgXHkt7rYwt4YwngfjzHD
+#EXTINF:0 tvg-id="Trace urban"  tvg-logo="http://team.ga/images/chIcons/402.png"  timeshift="0", Trace urban
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch402/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfwe5gIbKs_1JD11t2k7xECn4Q4jsFtqwzvYiuOcMjVI
+#EXTINF:0 tvg-id="O2TV HD"  tvg-logo="http://team.ga/images/chIcons/554.png"  timeshift="0", O2TV HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch554/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJejGF122-lwRKXIcteSj2vrArCYKMfgjlYshAFSh5hZK
+#EXTINF:0 tvg-id="Russian MusicBox HD"  tvg-logo="http://team.ga/images/chIcons/555.png"  timeshift="0", Russian MusicBox HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch555/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJddYqRusjN8S8yqcqqE4VDLFhcY29HiTM9tRoZfVtbYY
+#EXTINF:0 tvg-id="Музыка Первого"  tvg-logo="http://team.ga/images/chIcons/615.png"  timeshift="0", Музыка Первого
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch615/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQmYBcwkC15NTFJJ7Yuygnyb-vGCutVCGBpkbFxXLp3T
+#EXTINF:0 tvg-id="4 Ever music HD"  tvg-logo="http://team.ga/images/chIcons/631.png"  timeshift="0", 4 Ever music HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch631/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcGFKZgkT6ks9mi_vmnXUAAZ69-P_bdLMgBGp9SkyBjW
+#EXTINF:0 tvg-id="Music Box Gold"  tvg-logo="http://team.ga/images/chIcons/650.png"  timeshift="0", Music Box Gold
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch650/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcJiypU_4JnT8DuOGcUZoa3iigSvbXssoPVQlWtD_yWw
+#EXTINF:0 tvg-id="EU Music HD"  tvg-logo="http://team.ga/images/chIcons/653.png"  timeshift="0", EU Music HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch653/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbf9RJinjN8Tks4ZSb6kDCfTkpLsgeWAL1ezz4LAOklP
+#EXTINF:0 tvg-id="AIVA HD"  tvg-logo="http://team.ga/images/chIcons/661.png"  timeshift="0", AIVA HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch661/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUKhccXJd3qYs4pjcbvYY3XjME2STpHq6z3NaXUcZI2g
+#EXTINF:0 tvg-id="Europa Plus TV HD"  tvg-logo="http://team.ga/images/chIcons/715.png"  timeshift="0", Europa Plus TV HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch715/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYstSxfQYomkPP9VDAhPtz5n0GM39xGk7wBu55yOvTeJ
+#EXTINF:0 tvg-id="ТНТ Music HD"  tvg-logo="http://team.ga/images/chIcons/716.png"  timeshift="0", ТНТ Music HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch716/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJY_ziJuT0BlFIPms0GQ8-cS__ZKgg8IhMmwEPd82mBpG
+#EXTINF:0 tvg-id="Clubbing TV HD"  tvg-logo="http://team.ga/images/chIcons/524.png"  timeshift="0", Clubbing TV HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch524/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJS0Q8oU9MVrSbsjNJ0LppqvFsZJrulUq2FvUcjM7g5tf
+#EXTINF:0 tvg-id="Танцуй"  tvg-logo="http://team.ga/images/chIcons/588.png"  timeshift="0", Танцуй
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch588/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfpTOFashR8fM0D0NcIGSbflG1Rk7YKEmvs4eTbJXCKc
+#EXTINF:0 tvg-id="Жар Птица"  tvg-logo="http://team.ga/images/chIcons/531.png"  timeshift="0", Жар Птица
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch531/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTh_lOjU3n22sI7KcosVtQj5Y2c_SqSbiVfph3hiUiKe
+#EXTINF:0 tvg-id="MM Rock HD"  tvg-logo="http://team.ga/images/chIcons/1220.png"  timeshift="0", MM Rock HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1220/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYT1IV8BuFW1LGSeZVL9N7CUNLXJhfNB3iZdKQ5ABpdi
+#EXTINF:0 tvg-id="MM World Hits HD"  tvg-logo="http://team.ga/images/chIcons/1228.png"  timeshift="0", MM World Hits HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1228/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdQp8p4r0fTZ9LFEvFf7jiAj3W5kfjLTkhgq1Etisc2D
+#EXTINF:0 tvg-id="MM Квартирник HD"  tvg-logo="http://team.ga/images/chIcons/1240.png"  timeshift="0", MM Квартирник HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1240/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRyJtcrGge8OQArqiWnVvjYwFe0UczI8Deq4HTd0Escf
+#EXTINF:0 tvg-id="Yosso TV Music Hits"  tvg-logo="http://team.ga/images/chIcons/1305.png"  timeshift="0", Yosso TV Music Hits
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1305/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU5mfB7RhbYkreCtjBaeh1ELBwse9hH0XJMNJb_ihlOE
+#EXTINF:0 tvg-id="Fresh Concerts"  tvg-logo="http://team.ga/images/chIcons/1564.png"  timeshift="0", Fresh Concerts
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1564/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZeh4mUoLNXs8u8ZnMNnfhY1FX69QC_hZQtmWcAudWsh
+#EXTINF:0 tvg-id="Fresh Dance"  tvg-logo="http://team.ga/images/chIcons/1565.png"  timeshift="0", Fresh Dance
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1565/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaJQC2ul8PgX2x2V5NmRHs-IMT3OxBmRJlAndvd1MZ4H
+#EXTINF:0 tvg-id="Fresh Lyrics"  tvg-logo="http://team.ga/images/chIcons/1566.png"  timeshift="0", Fresh Lyrics
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1566/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb98OGRpJDpt3gkyrG6jDNAOJLTRWM7_Tc8209UpmbsA
+#EXTINF:0 tvg-id="Fresh Pop Hits"  tvg-logo="http://team.ga/images/chIcons/1567.png"  timeshift="0", Fresh Pop Hits
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1567/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRTaPsdZSXtWjpn42185wT5WQ9OdMTxOo_RjFQg6pedn
+#EXTINF:0 tvg-id="Fresh Retro"  tvg-logo="http://team.ga/images/chIcons/1568.png"  timeshift="0", Fresh Retro
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1568/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZjWyp66ur9H-5Kdt_NJ4xJ4nbQt0egrOzZ2cX_YQYTx
+#EXTINF:0 tvg-id="Fresh Rock Covers"  tvg-logo="http://team.ga/images/chIcons/1569.png"  timeshift="0", Fresh Rock Covers
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1569/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJS2GgNoGm1OAzi3PU67uTLsZwPEQw01gyWRG776DP8Lm
+#EXTINF:0 tvg-id="Fresh Russian Pop"  tvg-logo="http://team.ga/images/chIcons/1570.png"  timeshift="0", Fresh Russian Pop
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1570/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJV_iEyVOLQTmhvGAy0I04v6ZEZCHL-5jVhBnozB20zlO
+#EXTINF:0 tvg-id="Fresh Russian Rap"  tvg-logo="http://team.ga/images/chIcons/1571.png"  timeshift="0", Fresh Russian Rap
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1571/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZ2gjYpy8_quozCztmN6-nXztnbbu4aJo2s03r7AmRy3
+#EXTINF:0 tvg-id="Fresh Sad Music"  tvg-logo="http://team.ga/images/chIcons/1572.png"  timeshift="0", Fresh Sad Music
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1572/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUuD0AqPNV2lZ9RkXTM1bFeAzfN35Jyc_p9z5BcujWcs
+#EXTINF:0 tvg-id="Fresh Rock"  tvg-logo="http://team.ga/images/chIcons/1573.png"  timeshift="0", Fresh Rock
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1573/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTq76FfjKkVSfQLeUMMKKdBw6Y3JJ9iZ3VTeUxez4bnX
+#EXTINF:0 tvg-id="Liberty Music Mix FHD"  tvg-logo="http://team.ga/images/chIcons/1757.png"  timeshift="0", Liberty Music Mix FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1757/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJblbMGccsDUqr53srearLb_LtvRAdofXtxF41KWRbJyv
+#EXTINF:0 tvg-id="Liberty Music Dj FHD"  tvg-logo="http://team.ga/images/chIcons/2790.png"  timeshift="0", Liberty Music Dj FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2790/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYnX-ApD1PBHboBfagcD6F7VVrO1DAQycbhySwkv0MkG
+#EXTINF:0 tvg-id="Liberty Music Rock FHD"  tvg-logo="http://team.ga/images/chIcons/2791.png"  timeshift="0", Liberty Music Rock FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2791/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJd-H7SvkonQIFNwcT7ISxnNEdUjS23XdyTXfBcDWKhsb
+#EXTINF:0 tvg-id="Liberty Music Jazz FHD"  tvg-logo="http://team.ga/images/chIcons/2792.png"  timeshift="0", Liberty Music Jazz FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2792/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRMsGwGbMiWGSON0ZC6pc7ycSyM8DjWWOALdFogzPPoH
+#EXTINF:0 tvg-id="Liberty Music K-POP FHD"  tvg-logo="http://team.ga/images/chIcons/2793.png"  timeshift="0", Liberty Music K-POP FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2793/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWeoY3oq4E8jYTPtP93xk0uEDFnyGJ0LofGWQY6EjyR-
+#EXTINF:0 tvg-id="Liberty Music Pop FHD"  tvg-logo="http://team.ga/images/chIcons/2796.png"  timeshift="0", Liberty Music Pop FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2796/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYx6D-VBNhjZXVAwSgGETaViY8b_FQOenL2_b9ImSfFF
+#EXTINF:0 tvg-id="Liberty Music Hip-Hop FHD"  tvg-logo="http://team.ga/images/chIcons/2794.png"  timeshift="0", Liberty Music Hip-Hop FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2794/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU2Iztxoi6moJqXu6OBdS4Oqlr8Jn18ywZqg7G-n7Yqn
+#EXTINF:0 tvg-id="Liberty Music 90s Hits FHD"  tvg-logo="http://team.ga/images/chIcons/2795.png"  timeshift="0", Liberty Music 90s Hits FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2795/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTVfigNhsFyIWprK4tIR6tCUq5tNH0BITrsVQq1Hq6-s
+#EXTINF:0 tvg-id="Liberty Music latino FHD"  tvg-logo="http://team.ga/images/chIcons/2797.png"  timeshift="0", Liberty Music latino FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2797/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf8xjOhiz5fHr9EDob4VQrWN4TKI_0cSiQeTuR1vynno
+#EXTINF:0 tvg-id="Liberty Music Indi FHD"  tvg-logo="http://team.ga/images/chIcons/2798.png"  timeshift="0", Liberty Music Indi FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2798/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb3EX3-QKebFfNP2UbElNscKvZToBGgbu7zf4b3rqDLW
+#EXTINF:0 tvg-id="Liberty Music Alternative FHD"  tvg-logo="http://team.ga/images/chIcons/2865.png"  timeshift="0", Liberty Music Alternative FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2865/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJV7g9KjE1zT5AfIzyhd3zDk-uSS03YX8fULbn7WtRlKZ
+#EXTINF:0 tvg-id="Liberty Music Kinder FHD"  tvg-logo="http://team.ga/images/chIcons/2882.png"  timeshift="0", Liberty Music Kinder FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2882/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWzLziXiqfSwR4MWx99ayeFTdArDFUIMsDpLNN170Oar
+#EXTINF:0 tvg-id="Liberty Music Сountry FHD"  tvg-logo="http://team.ga/images/chIcons/2864.png"  timeshift="0", Liberty Music Сountry FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2864/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWk2nhlzJ5m5MyaNxwTs9n8E2XTloY0NwaVU_r_lPk1E
+#EXTINF:0 tvg-id="Liberty Music Classic FHD"  tvg-logo="http://team.ga/images/chIcons/2858.png"  timeshift="0", Liberty Music Classic FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2858/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJR63UIsMOOvLmiXjHzxcItHG8duZLlTulbEvKXbu0tvz
+#EXTINF:0 tvg-id="Liberty Music Chanson FHD"  tvg-logo="http://team.ga/images/chIcons/2873.png"  timeshift="0", Liberty Music Chanson FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2873/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaWR-I-CVTKyU6ST3iXxfV0Wx5tSLr1iVkEljJFUD3vS
+#EXTINF:0 tvg-id="Liberty Music Electronic FHD"  tvg-logo="http://team.ga/images/chIcons/2879.png"  timeshift="0", Liberty Music Electronic FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2879/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVPchITU8mA2yY3SsHxBlGz7s2CHSFrnVlwBrz2MgjYC
+#EXTINF:0 tvg-id="Liberty Music RnB FHD"  tvg-logo="http://team.ga/images/chIcons/2859.png"  timeshift="0", Liberty Music RnB FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2859/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcBNCF5UOVWNQNOgqiuJHZcy4Dd-SrQbvfqi6oKtNm41
+#EXTINF:0 tvg-id="Liberty Music German FHD"  tvg-logo="http://team.ga/images/chIcons/2861.png"  timeshift="0", Liberty Music German FHD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2861/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJa0I-cV5BENpCj3C1zR79sZfb23v0s7tMY1HF3c5yb3q
+#EXTINF:0 tvg-id="Yosso TV C-Live"  tvg-logo="http://team.ga/images/chIcons/2064.png"  timeshift="0", Yosso TV C-Live
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2064/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfSUwqwehqiAt2W84FwEu87vBuTeq9kbjG0zUA3aLXSb
+#EXTINF:0 tvg-id="Sky High Concert HD"  tvg-logo="http://team.ga/images/chIcons/1957.png"  timeshift="0", Sky High Concert HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1957/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfbVz0glvH40pssi6Cx6BBEALHCB4IZC92JGXVLk99X6
+#EXTINF:0 tvg-id="Sky High Dance HD"  tvg-logo="http://team.ga/images/chIcons/1958.png"  timeshift="0", Sky High Dance HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1958/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXTK3D2EWjA6POefEd-3hISVPtHuL50Q7QETMu8WlHgQ
+#EXTINF:0 tvg-id="Sky High LO FI HD"  tvg-logo="http://team.ga/images/chIcons/1959.png"  timeshift="0", Sky High LO FI HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1959/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU3ONre1qZ0NXYlYWjijuWZLNXbIGfQwjwaH4OjFPSkm
+#EXTINF:0 tvg-id="Sky High Classic HD"  tvg-logo="http://team.ga/images/chIcons/1960.png"  timeshift="0", Sky High Classic HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1960/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRolVvWgnyu9_ImE2ILxd-QJrdCemQTm3g9v6t9HFpEu
+#EXTINF:0 tvg-id="Sky High Music HD"  tvg-logo="http://team.ga/images/chIcons/3178.png"  timeshift="0", Sky High Music HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch3178/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUVz8aJlUZIxY9JX7v3xpvacahyLFzobUXD4IEecC5gz
+#EXTINF:0 tvg-id="KLI Music HD"  tvg-logo="http://team.ga/images/chIcons/2256.png"  timeshift="3", KLI Music HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2256/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU6mAA1QdzJr2WBtVPDB6IWLHHqf_ct0lk5IW3uvinWA
+#EXTINF:0 tvg-id="KLI Retro HD"  tvg-logo="http://team.ga/images/chIcons/2257.png"  timeshift="3", KLI Retro HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2257/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRa5PJWv1NEeKJO8mZXS0MdgsBbH3PngEPujHjNsbZBK
+#EXTINF:0 tvg-id="KLI Club HD"  tvg-logo="http://team.ga/images/chIcons/2258.png"  timeshift="3", KLI Club HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2258/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbZiTXyZaLmLGIekv9NVdCi6tHV9EdUjFhfzQg8glVFw
+#EXTINF:0 tvg-id="KLI Hit 90 HD"  tvg-logo="http://team.ga/images/chIcons/2259.png"  timeshift="3", KLI Hit 90 HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2259/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbI82FbWDTFeu4BhkuzLJ-YM_hXM5Oh-TQbCN_83Dh6H
+#EXTINF:0 tvg-id="KLI Concert HD"  tvg-logo="http://team.ga/images/chIcons/2260.png"  timeshift="3", KLI Concert HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2260/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfTGnYnJYnGbzUzCHaMoJEQM8NAYEF32iyGpAyiybH2I
+#EXTINF:0 tvg-id="KLI Шансон HD"  tvg-logo="http://team.ga/images/chIcons/2261.png"  timeshift="3", KLI Шансон HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2261/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRFwvdFACtg4u6yfTsjfDXx-fK49eTIRgUs92RQvS6DX
+#EXTINF:0 tvg-id="KLI Millennium HD"  tvg-logo="http://team.ga/images/chIcons/2462.png"  timeshift="3", KLI Millennium HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2462/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUMqQyFAf07YFlDsPOx7qjNuNiH_yksGGa_R2TWQVfyl
+#EXTINF:0 tvg-id="BOX RU.RAP HD"  tvg-logo="http://team.ga/images/chIcons/2459.png"  timeshift="0", BOX RU.RAP HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2459/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZOMv9S7Y5uvOF1iPHMPLofwohhTP5M_WcHYBGPiGiBE
+#EXTINF:0 tvg-id="BOX Metall HD"  tvg-logo="http://team.ga/images/chIcons/2491.png"  timeshift="0", BOX Metall HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2491/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJS76pIeoDm07mvVnuRsIuM_twnsz0ItF3y6rM34nP8cR
+#EXTINF:0 tvg-id="VeleS Dj Set"  tvg-logo="http://team.ga/images/chIcons/2593.png"  timeshift="0", VeleS Dj Set
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2593/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJeXjcsnB5hqaQQOBjGv1xCW6di8_1X9Op-Rk6lrKq-OL
+#EXTINF:0 tvg-id="VeleS Магнитофон"  tvg-logo="http://team.ga/images/chIcons/2599.png"  timeshift="0", VeleS Магнитофон
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2599/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZG3cwGkFcaWN45RfofphZ71-wv5-Wx654M7u05J8H-r
+#EXTINF:0 tvg-id="KBC-Наш Rock HD"  tvg-logo="http://team.ga/images/chIcons/2849.png"  timeshift="0", KBC-Наш Rock HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2849/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXJsmhtEcItzIl5Swfxv5hKE-bh97aKQGzmeNIK1ATCA
+#EXTINF:0 tvg-id="Xmas Hits+"  tvg-logo="http://team.ga/images/chIcons/2333.png"  timeshift="3", Xmas Hits+
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2333/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUigKSfYvZFs5rShNUV7VXv7oeFBQoYg9-NP9Ao5PuaN
+#EXTINF:0 tvg-id="Music Hits+"  tvg-logo="http://team.ga/images/chIcons/2334.png"  timeshift="0", Music Hits+
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2334/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJc2JE7SxKkLtKzdfNsXJwc-dG2dxCaOzF120gzJwVLGf
+#EXTINF:0 tvg-id="Maestro TV HD"  tvg-logo="http://team.ga/images/chIcons/3307.png"  timeshift="0", Maestro TV HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch3307/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWjYFwEQwpjG7LU174i2Dte8LOOlV6w_RGzcZFRj1atO
+#EXTINF:0 tvg-id="Velilla TV Pop And Rock Concerts HD"  tvg-logo="http://team.ga/images/chIcons/2767.png"  timeshift="0", Velilla TV Pop And Rock Concerts HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2767/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJa-ZEyTCJZK51Un1g1cyu2TGVSfeyjizDvtrGa1goEUP
+#EXTINF:0 tvg-id="Velilla TV Eurodance 90s"  tvg-logo="http://team.ga/images/chIcons/2765.png"  timeshift="0", Velilla TV Eurodance 90s
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2765/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJR-An-ztKxRFhxW_dixEf39zZ6Q98h3F9HPXbxEcV32J
+#EXTINF:0 tvg-id="Velilla TV Russiandance 90s"  tvg-logo="http://team.ga/images/chIcons/2749.png"  timeshift="0", Velilla TV Russiandance 90s
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2749/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRViM4YgeNqvpkZ-QnoJrkRU9ulcMEYVfEspx6bKbJeW
+#EXTINF:0 tvg-id="Stingray CMusic HD"  tvg-logo="http://team.ga/images/chIcons/660.png"  timeshift="0", Stingray CMusic HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch660/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTswO505Qj0YlHiGiuxzQ_xAGn_kce_za7KVn1jHhkS8
+#EXTINF:0 tvg-id="Stingray Djazz"  tvg-logo="http://team.ga/images/chIcons/1921.png"  timeshift="0", Stingray Djazz
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1921/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJeLcs-vkgxpDq5gVqwKzf3pwKt82XBxJ87tL4kRIOnPK
+#EXTINF:0 tvg-id="Stingray iConcerts"  tvg-logo="http://team.ga/images/chIcons/1922.png"  timeshift="0", Stingray iConcerts
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1922/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTudsD0HLD3OgcY0DW_wrq3IUd2397ddFSZn8KALF-oh
+#EXTINF:0 tvg-id="Stingray Lite TV"  tvg-logo="http://team.ga/images/chIcons/2759.png"  timeshift="0", Stingray Lite TV
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2759/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYAzlaI_UZjMwETsoL0uzI-YBbb04X03ZkcWeU35jjYU
+#EXTINF:0 tvg-id="Stingray Qello"  tvg-logo="http://team.ga/images/chIcons/2762.png"  timeshift="0", Stingray Qello
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2762/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYRyUHeUrs4VPARiVOVgJ_SRJtx5eRpgxULilKIViQ1D
+#EXTINF:0 tvg-id="Stingray Classica"  tvg-logo="http://team.ga/images/chIcons/1923.png"  timeshift="0", Stingray Classica
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch1923/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYgMX5b6A8PCyU4gxOO_M6xsgry6IhjCQllw0OYgWiqK
+#EXTINF:0 tvg-id="Stingray Nature"  tvg-logo="http://team.ga/images/chIcons/2760.png"  timeshift="0", Stingray Nature
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2760/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQjize8wrrzB9fhOVh2WVmvxkuDt8iTvyqFDUse6_lgg
+#EXTINF:0 tvg-id="Vevo 80s HD"  tvg-logo="http://team.ga/images/chIcons/2738.png"  timeshift="0", Vevo 80s HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2738/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUy06oZknpyr9P8ztSBOUcj38c4tvBYKMivIy0c1dj_5
+#EXTINF:0 tvg-id="Vevo Hip Hop HD"  tvg-logo="http://team.ga/images/chIcons/2739.png"  timeshift="0", Vevo Hip Hop HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2739/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXkOKfFmWAIlW1_RlOSm3MBpG39UPICV6dB54bV3V_QL
+#EXTINF:0 tvg-id="Vevo Latino HD"  tvg-logo="http://team.ga/images/chIcons/2740.png"  timeshift="0", Vevo Latino HD
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2740/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRaEwpjmFVeBVOepEJq9yQSNNcjdcayhwkJmWrTAn1sH
+#EXTINF:0 tvg-id="Stingray Alternative Rock"  tvg-logo="http://team.ga/images/chIcons/2741.png"  timeshift="0", Stingray Alternative Rock
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2741/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVyAQNYAtjbkiLlW-owr21mQmhhHPuXDNdfEQGlwlLLV
+#EXTINF:0 tvg-id="Stingray Hot Country"  tvg-logo="http://team.ga/images/chIcons/2756.png"  timeshift="0", Stingray Hot Country
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2756/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXL_bvaW6xY4ulXEADmeHujQRFJdVhh3tl7AQqyByD4_
+#EXTINF:0 tvg-id="Stingray Todays K-Pop"  tvg-logo="http://team.ga/images/chIcons/2757.png"  timeshift="0", Stingray Todays K-Pop
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2757/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZmzYgB_ouAApllDJ4_Fxo-LtLFWdOU8iHv5ldaY_vwt
+#EXTINF:0 tvg-id="Stingray Pop Adult"  tvg-logo="http://team.ga/images/chIcons/2761.png"  timeshift="0", Stingray Pop Adult
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2761/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfXLHUeGs2s-tO-KKnSMSTI4BvUUG4JzAZXbTlRzaFkt
+#EXTINF:0 tvg-id="Stingray Romance Latino"  tvg-logo="http://team.ga/images/chIcons/2763.png"  timeshift="0", Stingray Romance Latino
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2763/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVzpDT3od5obQvdK_Y7M9xpOC7uXLQ5uHtqAYv-h4sXU
+#EXTINF:0 tvg-id="Stingray Smooth Jazz"  tvg-logo="http://team.ga/images/chIcons/2764.png"  timeshift="0", Stingray Smooth Jazz
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2764/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZlO_yNbH6q22PblcCoCGBcQvoXEsd293f41SogQ6oYh
+#EXTINF:0 tvg-id="Stingray Urban Beats"  tvg-logo="http://team.ga/images/chIcons/2768.png"  timeshift="0", Stingray Urban Beats
+#EXTGRP:9. Music/Музыка
+http://4.team.ga:80/ch2768/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZzojtp5yJt43_Vatq0WSR32juBjyqldWKGwbbFZ4Iu9
+#EXTINF:0 tvg-id="Viju History `HD"  tvg-logo="http://team.ga/images/chIcons/126.png"  timeshift="3", Viju History `HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch126/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVK_A329LaOZBy71mZHYFELCu89Jc2I01iPw8EjX0_Ua
+#EXTINF:0 tvg-id="Viju Explore HD"  tvg-logo="http://team.ga/images/chIcons/11.png"  timeshift="3", Viju Explore HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch011/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVyQOdW3-Crrqsde8Bp9RXdkxZ5IFnlJnzOGu2xVkZyS
+#EXTINF:0 tvg-id="The Explorers HD"  tvg-logo="http://team.ga/images/chIcons/3323.png"  timeshift="3", The Explorers HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch3323/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUwqN2U5zD7KwBASWw26LEwPgHWYj3YIn_bHoMkHWWq7
+#EXTINF:0 tvg-id="Наука 2.0 HD"  tvg-logo="http://team.ga/images/chIcons/73.png"  timeshift="3", Наука 2.0 HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch073/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU7pRbf7PI6QuzOi_w2dN5sClfitv75Qg2DDBU3iwlfv
+#EXTINF:0 tvg-id="Discovery Channel HD"  tvg-logo="http://team.ga/images/chIcons/123.png"  timeshift="3", Discovery Channel HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch123/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYsbM2YiYFAFDASHewoBgwOvJf3DO5sLdk3hyKisrC3F
+#EXTINF:0 tvg-id="National Geographic HD"  tvg-logo="http://team.ga/images/chIcons/125.png"  timeshift="3", National Geographic HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch125/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWtkkjeK2LfsJFC_uxWwdupM1YEFdyQunvGulppye2gz
+#EXTINF:0 tvg-id="Моя Планета HD"  tvg-logo="http://team.ga/images/chIcons/142.png"  timeshift="3", Моя Планета HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch142/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJT_SmZu1ZWoIH1TShWsiEeRs9NoHbGvm4ox5bpx4Xxkc
+#EXTINF:0 tvg-id="Моя Стихия HD"  tvg-logo="http://team.ga/images/chIcons/3321.png"  timeshift="3", Моя Стихия HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch3321/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaJZ4RAVQaWzLYohCPhh9APrF0J7Y6iFdJODgIRp-HGx
+#EXTINF:0 tvg-id="Приключения HD"  tvg-logo="http://team.ga/images/chIcons/143.png"  timeshift="3", Приключения HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch143/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaRvoXzlSomYwVwm8WPaay-NjutWj6N_qJru3v7u1tiA
+#EXTINF:0 tvg-id="Galaxy HD"  tvg-logo="http://team.ga/images/chIcons/148.png"  timeshift="3", Galaxy HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch148/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSlsCOyICpy-cQK-4CAkx0rSBf_OS3C0mhGK0NX-jdB8
+#EXTINF:0 tvg-id="Оружие"  tvg-logo="http://team.ga/images/chIcons/327.png"  timeshift="3", Оружие
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch327/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVol2Z7PwTzpMePIuj_K9LKqlaSQQC6fJA2auIVCK3jr
+#EXTINF:0 tvg-id="History HD"  tvg-logo="http://team.ga/images/chIcons/432.png"  timeshift="3", History HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch432/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJac_bayNHA5yUWXtUGyJHbOlil37bCPYma6Z0X0UnbH2
+#EXTINF:0 tvg-id="History2 HD"  tvg-logo="http://team.ga/images/chIcons/433.png"  timeshift="3", History2 HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch433/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUXDxDiPoNwNCkFxacuC60SmPtZGRnwztrVjvg9ndgae
+#EXTINF:0 tvg-id="Investigation Discovery HD"  tvg-logo="http://team.ga/images/chIcons/434.png"  timeshift="3", Investigation Discovery HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch434/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJe-Gq4iyrwuC9oND7w3c8cGK4fRX4gWPgcUTrUb63hmJ
+#EXTINF:0 tvg-id="TLC HD"  tvg-logo="http://team.ga/images/chIcons/435.png"  timeshift="3", TLC HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch435/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWHhadn1pUn3Fh-eTdca7JtWtjJaaHcaeL1-ELDMAtNN
+#EXTINF:0 tvg-id="Космический HD"  tvg-logo="http://team.ga/images/chIcons/436.png"  timeshift="3", Космический HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch436/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaetbg0wENzv88o_IWQ5u-xLSieN_F7UHNq-Zy6Zfr-X
+#EXTINF:0 tvg-id="Нано HD"  tvg-logo="http://team.ga/images/chIcons/437.png"  timeshift="3", Нано HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch437/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdJ6TG3ArneBC0QwbKr-aXy8a-uwZ_uW3EzRirvAzJj6
+#EXTINF:0 tvg-id="Техно 24"  tvg-logo="http://team.ga/images/chIcons/438.png"  timeshift="3", Техно 24
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch438/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfT-6x45xK8Mq8Xoow_geOIUzESVG2jmmoAP9jzCue_Z
+#EXTINF:0 tvg-id="Доктор HD"  tvg-logo="http://team.ga/images/chIcons/440.png"  timeshift="3", Доктор HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch440/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQCsjLlui6Jd-RJdGr23gsW93Er6H6j6PVwtfUk7wLze
+#EXTINF:0 tvg-id="Da Vinci"  tvg-logo="http://team.ga/images/chIcons/441.png"  timeshift="3", Da Vinci
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch441/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRE45kG_ZLoXpKYMD0vXGqG11OtybynRE2RISNYyJHhL
+#EXTINF:0 tvg-id="История"  tvg-logo="http://team.ga/images/chIcons/442.png"  timeshift="3", История
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch442/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTq0Ju5xfTx9wjG4XlifMwYGA0zuotQzryvIYkL8rH07
+#EXTINF:0 tvg-id="Точка РФ HD"  tvg-logo="http://team.ga/images/chIcons/122.png"  timeshift="3", Точка РФ HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch122/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaqwyiULj84i6i3b7kzCLn8zYiHvlU14vgD7SiQ9NerQ
+#EXTINF:0 tvg-id="365 дней ТВ"  tvg-logo="http://team.ga/images/chIcons/443.png"  timeshift="3", 365 дней ТВ
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch443/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTaP8W9Jds38AYDbLY1pdfwZtwRaUGIHWUG0Ic4kqk2t
+#EXTINF:0 tvg-id="RTG TV"  tvg-logo="http://team.ga/images/chIcons/629.png"  timeshift="3", RTG TV
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch629/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXMrlLohL4aFvf2sJXuzxwzKJjVAU8DvxNU2GmHikAUV
+#EXTINF:0 tvg-id="RTG HD"  tvg-logo="http://team.ga/images/chIcons/444.png"  timeshift="3", RTG HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch444/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUPJpBhfjK75y02sQs8jpLVuYbDxKRNQCveglty3H3fL
+#EXTINF:0 tvg-id="Travel Channel HD"  tvg-logo="http://team.ga/images/chIcons/445.png"  timeshift="3", Travel Channel HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch445/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTzDMl_2QQBtIEuPGTvggaS8Vcf7lMuIytmSHjVWQnmF
+#EXTINF:0 tvg-id="Travel+Adventure HD"  tvg-logo="http://team.ga/images/chIcons/446.png"  timeshift="3", Travel+Adventure HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch446/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYqdDVL5dUWSl1QC5kOwFIdTXPcVYzDy36Vfp7c5xo-4
+#EXTINF:0 tvg-id="Пёс и Ко"  tvg-logo="http://team.ga/images/chIcons/520.png"  timeshift="3", Пёс и Ко
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch520/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcBii3s9hZuuhjMjuU5MJQpSwQnHCItr5nH8_VIx22Wu
+#EXTINF:0 tvg-id="Мужской"  tvg-logo="http://team.ga/images/chIcons/522.png"  timeshift="3", Мужской
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch522/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRGoHDUcF64nwIvUTsxnDFXm-PV_DeeUjV94vzVVkIF7
+#EXTINF:0 tvg-id="Большая Азия HD"  tvg-logo="http://team.ga/images/chIcons/533.png"  timeshift="3", Большая Азия HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch533/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaoJJgmCBXCOESsU_xbHwadXPMRMo0SVFLqo2qAndfYr
+#EXTINF:0 tvg-id="Здоровое ТВ"  tvg-logo="http://team.ga/images/chIcons/539.png"  timeshift="3", Здоровое ТВ
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch539/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYK_NVKdm2yTHvfga1djScCTrFsnOPROI4kpzQyZI7Su
+#EXTINF:0 tvg-id="Телекафе"  tvg-logo="http://team.ga/images/chIcons/630.png"  timeshift="3", Телекафе
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch630/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUqZ36AtUKrmbgH-_06atZdkuCwFZK6K7DEfkvGQzhbP
+#EXTINF:0 tvg-id="Глазами туриста HD"  tvg-logo="http://team.ga/images/chIcons/632.png"  timeshift="3", Глазами туриста HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch632/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdY5e_L2iuD_suUP4i9WdXil9QzuuM7aWfVXkKiFscQb
+#EXTINF:0 tvg-id="DocuBox HD"  tvg-logo="http://team.ga/images/chIcons/656.png"  timeshift="3", DocuBox HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch656/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRvns2MC2-GDCWlT0FtF-qcCRjogYqFPsUlLO5JGFnYW
+#EXTINF:0 tvg-id="Телепутешествия"  tvg-logo="http://team.ga/images/chIcons/659.png"  timeshift="3", Телепутешествия
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch659/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb2MRu24AYtuiZNV2Wo6_rTx2DELZb2mgFjJ4c2Klhvp
+#EXTINF:0 tvg-id="Мир Вокруг HD"  tvg-logo="http://team.ga/images/chIcons/664.png"  timeshift="3", Мир Вокруг HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch664/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRvVxcjRgZTcGpfDXwOt7fdcGTN5rdgWiFcURq7n_qmW
+#EXTINF:0 tvg-id="Поехали! HD"  tvg-logo="http://team.ga/images/chIcons/710.png"  timeshift="3", Поехали! HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch710/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUx0nKRnpGoZZ4cUKmjqmoGJOfEm6LWdVjAqN0EwAuzu
+#EXTINF:0 tvg-id="Smartzone HD"  tvg-logo="http://team.ga/images/chIcons/718.png"  timeshift="3", Smartzone HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch718/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaWx1uKIWtt7eVM8r3KvDpmkdDKM1iEfT4bWeeozfyKO
+#EXTINF:0 tvg-id="КтоКуда"  tvg-logo="http://team.ga/images/chIcons/719.png"  timeshift="3", КтоКуда
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch719/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUVAdrwyrEeE9xJ_VvWOvynfG_jyXpVcoKG3C0EzVV-P
+#EXTINF:0 tvg-id="Curiosity Stream HD"  tvg-logo="http://team.ga/images/chIcons/556.png"  timeshift="3", Curiosity Stream HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch556/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdMN3Zycie6GIu7k-Hy163Ffi6oTaMtTanIDR00F2-fN
+#EXTINF:0 tvg-id="Motor Trend HD"  tvg-logo="http://team.ga/images/chIcons/720.png"  timeshift="3", Motor Trend HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch720/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJc9LA0n56FKrrds0_aYEOUZL_SQEMUABjEgwahXvBnW5
+#EXTINF:0 tvg-id="Discovery Science HD"  tvg-logo="http://team.ga/images/chIcons/722.png"  timeshift="3", Discovery Science HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch722/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbMSpcSi894P6uahrkETpRcVSRvS41AF6ZSP93BTWa8k
+#EXTINF:0 tvg-id="HGTV HD"  tvg-logo="http://team.ga/images/chIcons/723.png"  timeshift="3", HGTV HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch723/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZDTHIIPpk_BjRSlK8C7sVDL67zUGD4p4u0sSrz803lE
+#EXTINF:0 tvg-id="Terra HD"  tvg-logo="http://team.ga/images/chIcons/2078.png"  timeshift="3", Terra HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2078/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdogAnYThy6h8IrNmxGvIKwMtpyldH22NmYu53b_Emv-
+#EXTINF:0 tvg-id="CGTN Russian HD"  tvg-logo="http://team.ga/images/chIcons/3318.png"  timeshift="0", CGTN Russian HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch3318/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfMOOFZdV88RO8Bvt5Qn4KUJ_9BjbfeAO5CiXqudaxdV
+#EXTINF:0 tvg-id="MM Experiment HD"  tvg-logo="http://team.ga/images/chIcons/1952.png"  timeshift="3", MM Experiment HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch1952/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfTy5q8Zlalpkc1Cy_kpFAgMlk5jdcum8cN3SjqaA184
+#EXTINF:0 tvg-id="MM Открытия HD"  tvg-logo="http://team.ga/images/chIcons/1955.png"  timeshift="3", MM Открытия HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch1955/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQKCc_AGJb0YiOo5OpK_iYxPNLzSB1othtA9WC0geT_S
+#EXTINF:0 tvg-id="Sky High Brain HD"  tvg-logo="http://team.ga/images/chIcons/1984.png"  timeshift="3", Sky High Brain HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch1984/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTQ7l3VBR_QqN798Hxjfn7YyWeYDWyBRmeL370l0zY9z
+#EXTINF:0 tvg-id="Sky High Doc HD"  tvg-logo="http://team.ga/images/chIcons/3180.png"  timeshift="3", Sky High Doc HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch3180/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbSGMA6-Iky7fdXfPKHXRsLYiUG4DPvbEZxRBnjePr-U
+#EXTINF:0 tvg-id="Liberty Документалка FHD"  tvg-logo="http://team.ga/images/chIcons/3177.png"  timeshift="0", Liberty Документалка FHD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch3177/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQ31u7ooPVdBo02p8xWzJPz_X84VwnwvmgeUCb9K5pFb
+#EXTINF:0 tvg-id="Liberty Наука FHD"  tvg-logo="http://team.ga/images/chIcons/1777.png"  timeshift="3", Liberty Наука FHD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch1777/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJY0-3tReifu-IFCBhyfvTkRnY58vntdXVAG1kl0rU_9W
+#EXTINF:0 tvg-id="BOX Memory HD"  tvg-logo="http://team.ga/images/chIcons/2294.png"  timeshift="3", BOX Memory HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2294/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcGuxcI7tHbiUlZu8j61scPQnc01hYRERun2vcYrQ6Vi
+#EXTINF:0 tvg-id="BOX Stories HD"  tvg-logo="http://team.ga/images/chIcons/2303.png"  timeshift="3", BOX Stories HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2303/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTBAG4wC2uIzrtUxt9PIDLniacTEhJw2Z2ZakqFBdNk3
+#EXTINF:0 tvg-id="BOX Travel HD"  tvg-logo="http://team.ga/images/chIcons/2304.png"  timeshift="3", BOX Travel HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2304/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVoG12nRDAxAWtP-jbV54OfHphvTq-lB-BHP-PBXE6g5
+#EXTINF:0 tvg-id="BOX Travel Premiere HD"  tvg-logo="http://team.ga/images/chIcons/2490.png"  timeshift="3", BOX Travel Premiere HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2490/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSGq9oxVOb6wcu0qVARwGrySUpgSOvBz5qI3hiPo1CH0
+#EXTINF:0 tvg-id="BOX Mayday HD"  tvg-logo="http://team.ga/images/chIcons/2313.png"  timeshift="3", BOX Mayday HD
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2313/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWvcICjk199RZgkLfz7WCjtRsq8n7NbMWpFpsDj8lqiC
+#EXTINF:0 tvg-id="CineMan Air Crash"  tvg-logo="http://team.ga/images/chIcons/2924.png"  timeshift="3", CineMan Air Crash
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2924/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJY8TnwdUf3tRoMy_Vsig2GrYkuFDNX81CXnpWQEQcbNz
+#EXTINF:0 tvg-id="Yosso TV Travel"  tvg-logo="http://team.ga/images/chIcons/2606.png"  timeshift="3", Yosso TV Travel
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2606/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJV5TnCsXEjkrStAgiPBbCtJYMpBc1ri_7PYcZOH_IG6J
+#EXTINF:0 tvg-id="Yosso TV Science"  tvg-logo="http://team.ga/images/chIcons/2605.png"  timeshift="3", Yosso TV Science
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2605/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJceA5iuJwxwca_0o-bHtuut4i_z4Tt9Lv6FGLHsbpPUd
+#EXTINF:0 tvg-id="Oasis Учим Kитайский"  tvg-logo="http://team.ga/images/chIcons/2670.png"  timeshift="3", Oasis Учим Kитайский
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2670/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSLOxmOqpa6WfQDiOwR18H-S4TIiiZ9AWQ7eMe6t_h9V
+#EXTINF:0 tvg-id="Oasis Учим Английский"  tvg-logo="http://team.ga/images/chIcons/2671.png"  timeshift="3", Oasis Учим Английский
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2671/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYX1EQb8lgbcqOZtPW86bhUTV6V-4d9wrTed3oaemDjE
+#EXTINF:0 tvg-id="Oasis Учим Испанский"  tvg-logo="http://team.ga/images/chIcons/2672.png"  timeshift="3", Oasis Учим Испанский
+#EXTGRP:10. Educational/Образование
+http://4.team.ga:80/ch2672/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSOWsUIzAhTMC1Pp_Y7bkeJNP5RLCxh_NGNLvd8Yqymk
+#EXTINF:0 tvg-id="Viju Nature HD"  tvg-logo="http://team.ga/images/chIcons/12.png"  timeshift="3", Viju Nature HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch012/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdfNiXu9CHq5mnF2Wj22HKcrExM5UJeajDd8LGNZBYGp
+#EXTINF:0 tvg-id="Viju+ Planet HD"  tvg-logo="http://team.ga/images/chIcons/2454.png"  timeshift="3", Viju+ Planet HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2454/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbE4BHmIELgsxI6Mx6Ot4daXgHMkFN2lznowTG5U-_yF
+#EXTINF:0 tvg-id="Big Planet HD"  tvg-logo="http://team.ga/images/chIcons/1916.png"  timeshift="3", Big Planet HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1916/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUOGOYFeb1ZR3Y6vTrxO3Rg1Sm4c8fpGE-nJcfn9dOzH
+#EXTINF:0 tvg-id="Усадьба"  tvg-logo="http://team.ga/images/chIcons/504.png"  timeshift="3", Усадьба
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch504/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbrIFG7HHXk2XbYMYslW6F54nNetiI3cOdAzjPq4GosH
+#EXTINF:0 tvg-id="Nat Geo Wild HD"  tvg-logo="http://team.ga/images/chIcons/47.png"  timeshift="3", Nat Geo Wild HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch047/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfEoDLVyl62Sbg9uwj8rXBvKCa_KMRsSQsuS_G11l81n
+#EXTINF:0 tvg-id="Диалоги о рыбалке HD"  tvg-logo="http://team.ga/images/chIcons/67.png"  timeshift="3", Диалоги о рыбалке HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch067/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVh7W3GMkj_hgLi0j3WMW38WUfPkdVjIrKBOKG6XnMEG
+#EXTINF:0 tvg-id="Точка отрыва HD"  tvg-logo="http://team.ga/images/chIcons/48.png"  timeshift="3", Точка отрыва HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch048/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbg8Poy5tX5QB6l06er2Oy1ndK28LVDJZ15lApQawGA6
+#EXTINF:0 tvg-id="Дикий"  tvg-logo="http://team.ga/images/chIcons/69.png"  timeshift="3", Дикий
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch069/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJX9raczEVBPXXBzAwi0XrhEOZp41vtkLZ4LzR9Wc4wuH
+#EXTINF:0 tvg-id="Наша сибирь HD"  tvg-logo="http://team.ga/images/chIcons/640.png"  timeshift="3", Наша сибирь HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch640/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSuwejrws-llFrLUSc4u2zr18eQ-wa7q2vggGmJRmccM
+#EXTINF:0 tvg-id="Охотник и рыболов HD"  tvg-logo="http://team.ga/images/chIcons/85.png"  timeshift="3", Охотник и рыболов HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch085/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdQPz27u4Zu3ltJKUBVNjHuxFSAQ78uTUliL2JbTOxup
+#EXTINF:0 tvg-id="Animal Planet HD"  tvg-logo="http://team.ga/images/chIcons/124.png"  timeshift="3", Animal Planet HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch124/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVqFuQ4IT3CGm21RE7S0v9O6MpDQaRaTWaiEgitrAk2R
+#EXTINF:0 tvg-id="В мире животных HD"  tvg-logo="http://team.ga/images/chIcons/141.png"  timeshift="3", В мире животных HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch141/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdn_tiI3gvoYwxvwe9NIL7OYfpuAbaHloCjpldhI1J4M
+#EXTINF:0 tvg-id="Лапки LIVE HD"  tvg-logo="http://team.ga/images/chIcons/3302.png"  timeshift="3", Лапки LIVE HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch3302/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUqRXLqrb9hOfV5gyALPLto0urIrH7U701KulxyB7wa-
+#EXTINF:0 tvg-id="Охота и рыбалка"  tvg-logo="http://team.ga/images/chIcons/448.png"  timeshift="3", Охота и рыбалка
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch448/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRHOxIig8x3enGnwTgzcg2yAKL6ym4N84SbCo4jcevMe
+#EXTINF:0 tvg-id="Дикая Охота HD"  tvg-logo="http://team.ga/images/chIcons/449.png"  timeshift="3", Дикая Охота HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch449/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVEXTqRLYRANR0dgzR3Iqst2G_d07UAZh10UcKq8lpI2
+#EXTINF:0 tvg-id="Дикая Рыбалка HD"  tvg-logo="http://team.ga/images/chIcons/450.png"  timeshift="3", Дикая Рыбалка HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch450/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZFe7W6Nq6xmBZ2bPUyBQISJcCbv_8ap_W08Y9xOhSV_
+#EXTINF:0 tvg-id="Домашние животные"  tvg-logo="http://team.ga/images/chIcons/626.png"  timeshift="0", Домашние животные
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch626/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcxdPN0V_ow7jOovSN3OD9qWij94BgSGYJdmoqilJFWC
+#EXTINF:0 tvg-id="Живая природа HD"  tvg-logo="http://team.ga/images/chIcons/452.png"  timeshift="0", Живая природа HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch452/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcmPt8eDWxLJHSewbzqMhHkUGEsOO2B8oepftIa4vSM7
+#EXTINF:0 tvg-id="Живая Планета"  tvg-logo="http://team.ga/images/chIcons/453.png"  timeshift="0", Живая Планета
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch453/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfAYZe0t30U-2N6GNQ0SMAj4pcJWEQ6VK7kxWmm4m0F-
+#EXTINF:0 tvg-id="Загородный"  tvg-logo="http://team.ga/images/chIcons/624.png"  timeshift="0", Загородный
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch624/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQVN40OpeJgRUw6U_IaRMesRTnPQnRaZaaRXBW2BRsQf
+#EXTINF:0 tvg-id="Загородная жизнь"  tvg-logo="http://team.ga/images/chIcons/2881.png"  timeshift="0", Загородная жизнь
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2881/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWEFZT2GQg6PEuJeUvL7iAi_yoZeEZBck3J8esub_6Sm
+#EXTINF:0 tvg-id="Загородный int HD"  tvg-logo="http://team.ga/images/chIcons/667.png"  timeshift="0", Загородный int HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch667/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfT5ELawqOBlbXCHvi5iumk20ztR0D_fciLfw45YNAXZ
+#EXTINF:0 tvg-id="Зоопарк"  tvg-logo="http://team.ga/images/chIcons/627.png"  timeshift="0", Зоопарк
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch627/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYFhWpwLcmkdWhGGxVqy5FX-qgFNoWvy4zdb2wMB17Ep
+#EXTINF:0 tvg-id="Ocean TV HD"  tvg-logo="http://team.ga/images/chIcons/728.png"  timeshift="0", Ocean TV HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch728/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRPs7WbRvE1JZoNTAI2h4qW4HtBJHrqGhxOk0FsJ7ad7
+#EXTINF:0 tvg-id="MM Live Planet HD"  tvg-logo="http://team.ga/images/chIcons/1271.png"  timeshift="3", MM Live Planet HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1271/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdojVCeHW1JtyOHe1UhKr7mA5UnFud7zlWDWpV1oBoLc
+#EXTINF:0 tvg-id="MM Микромир HD"  tvg-logo="http://team.ga/images/chIcons/1585.png"  timeshift="3", MM Микромир HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1585/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUKaPkmUBww8iBCYzCjsofdzcyq5ab4Z08YIijRdGDbf
+#EXTINF:0 tvg-id="MM Макромир HD"  tvg-logo="http://team.ga/images/chIcons/1586.png"  timeshift="3", MM Макромир HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1586/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYIhbijL6i7-Y9g_T3felE7iTSIaB94KFaqJatRDSR-j
+#EXTINF:0 tvg-id="MM Мегамир HD"  tvg-logo="http://team.ga/images/chIcons/1587.png"  timeshift="3", MM Мегамир HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1587/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXu_StOBVIZXDD741zyFFV4l3UziFNySIRSqk3utwsKe
+#EXTINF:0 tvg-id="Liberty BBC FHD"  tvg-logo="http://team.ga/images/chIcons/1750.png"  timeshift="3", Liberty BBC FHD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1750/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfqYBibSR2A0mCEtW69fP_50xCOUy0GgF5k_b0MhqlB_
+#EXTINF:0 tvg-id="Liberty Планета360 FHD"  tvg-logo="http://team.ga/images/chIcons/1758.png"  timeshift="3", Liberty Планета360 FHD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1758/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWWQIX2T5V_mz7HncINcawwtr_MKhtxh3x4MFvkqudg4
+#EXTINF:0 tvg-id="Sky High Nature HD"  tvg-logo="http://team.ga/images/chIcons/1979.png"  timeshift="3", Sky High Nature HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch1979/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbsXzWcCetYwzRy7M24R6LVX3-NeB53aUJy2ADh9FWr-
+#EXTINF:0 tvg-id="Yosso TV Nature"  tvg-logo="http://team.ga/images/chIcons/2604.png"  timeshift="3", Yosso TV Nature
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2604/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJa1EOPWJFBwuESlVrigyGjxvb6y4XrQoLMxKyvH8_eQI
+#EXTINF:0 tvg-id="Oasis Animals"  tvg-logo="http://team.ga/images/chIcons/2648.png"  timeshift="3", Oasis Animals
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2648/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYartECDaeTqKgT-3dekn1BPF9R8wb_f7NRqerKxv167
+#EXTINF:0 tvg-id="Oasis Рыбалка"  tvg-logo="http://team.ga/images/chIcons/2664.png"  timeshift="3", Oasis Рыбалка
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2664/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXdLLWC7cmm8ikgjTH1f2uo6FCf2AA88QfKwX9_E59gR
+#EXTINF:0 tvg-id="Oasis Наша Планета"  tvg-logo="http://team.ga/images/chIcons/2679.png"  timeshift="3", Oasis Наша Планета
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2679/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcbLgHtlN2lHJ9gytl5gP0Q7t1aoeh9g_QDAYzPavMgD
+#EXTINF:0 tvg-id="Oasis Выживание"  tvg-logo="http://team.ga/images/chIcons/2691.png"  timeshift="3", Oasis Выживание
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2691/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf4hRrR3P29FoPQCiYDm2F3Ch2HD7EapEdyURNQ6fvZg
+#EXTINF:0 tvg-id="Oasis Выжить Вместе"  tvg-logo="http://team.ga/images/chIcons/2692.png"  timeshift="3", Oasis Выжить Вместе
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2692/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQapVbWRJd4aHlxLH8TiF-YzJLWh9ClN1e482-y4dPRt
+#EXTINF:0 tvg-id="KBC-Animals HD"  tvg-logo="http://team.ga/images/chIcons/2847.png"  timeshift="3", KBC-Animals HD
+#EXTGRP:11. Nature/Природа
+http://4.team.ga:80/ch2847/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXb00DFBwGxpXmlvWxAPO2vfkcHns4lqO3hsZ3yHOKSP
+#EXTINF:0 tvg-id="АВТО 24 HD"  tvg-logo="http://team.ga/images/chIcons/16.png"  timeshift="0", АВТО 24 HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch016/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYP3F8Z6xryzdW84oS9yztys5a7dDlMYSQCjhDcb8_YC
+#EXTINF:0 tvg-id="Сарафан"  tvg-logo="http://team.ga/images/chIcons/26.png"  timeshift="0", Сарафан
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch026/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVz4KCNd3PaO5REgU8EVPCL350cRPYNxUBfIKpywVh8z
+#EXTINF:0 tvg-id="Кухня ТВ HD"  tvg-logo="http://team.ga/images/chIcons/46.png"  timeshift="3", Кухня ТВ HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch046/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTEoOjOE-xkchGwpCD-XWH07T5XtUBdufWmJ6_59IMEW
+#EXTINF:0 tvg-id="Foodtime HD"  tvg-logo="http://team.ga/images/chIcons/454.png"  timeshift="3", Foodtime HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch454/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdf4TARotfH96l7JuQXl2Gks3sLyARBvqupHx99qcJJJ
+#EXTINF:0 tvg-id="Еда"  tvg-logo="http://team.ga/images/chIcons/538.png"  timeshift="3", Еда
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch538/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXzi4AyjxEHeTJwyAo9_kEcL2jqKcTv1w4M0jTNBaEHi
+#EXTINF:0 tvg-id="Food Network HD"  tvg-logo="http://team.ga/images/chIcons/455.png"  timeshift="3", Food Network HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch455/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJc0mnVd7j1PL3c9An9YZ-Bc5kipuBcIcpxIJQyhvlH03
+#EXTINF:0 tvg-id="Аппетитный HD"  tvg-logo="http://team.ga/images/chIcons/422.png"  timeshift="3", Аппетитный HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch422/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTIwNixVwPQ-c2SobULciIiP5jxyMzO-4F2ESCNjdO5H
+#EXTINF:0 tvg-id="БОБЁР"  tvg-logo="http://team.ga/images/chIcons/75.png"  timeshift="0", БОБЁР
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch075/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXt4xyiam2HfwVpWGUFKp7nctOEJ-2yRhDumkPj4Xxil
+#EXTINF:0 tvg-id="2X2"  tvg-logo="http://team.ga/images/chIcons/76.png"  timeshift="0", 2X2
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch076/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRbKbYkOgwgz150OVK0H9bEfGqvfwihmxGZuMs6ApWJx
+#EXTINF:0 tvg-id="КВН ТВ"  tvg-logo="http://team.ga/images/chIcons/106.png"  timeshift="3", КВН ТВ
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch106/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXKY3-vTzhpKaOliX8EozZYEfStX6pO7aAaGiSrMayDD
+#EXTINF:0 tvg-id="Че"  tvg-logo="http://team.ga/images/chIcons/109.png"  timeshift="3", Че
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch109/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUg5uZO8MHFyckXo7hR8E1qKrQTMIymtM3Blo1FuYwhi
+#EXTINF:0 tvg-id="Че +4"  tvg-logo="http://team.ga/images/chIcons/408.png"  timeshift="0", Че +4
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch408/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJabB2JLBSo2Yro--1G5A5KKJNQ_Fr7y4zSY2EJBiVUmz
+#EXTINF:0 tvg-id="СТС love"  tvg-logo="http://team.ga/images/chIcons/111.png"  timeshift="0", СТС love
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch111/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfU3nlVCNb-SnHlvnmEVdep6pEq0xE4_fJfHljfiKhNR
+#EXTINF:0 tvg-id="Ностальгия"  tvg-logo="http://team.ga/images/chIcons/113.png"  timeshift="3", Ностальгия
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch113/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZDr1ObfYrNutqYk1nqpaNFCgMxbhGb8AdraJ61U404B
+#EXTINF:0 tvg-id="Время"  tvg-logo="http://team.ga/images/chIcons/118.png"  timeshift="3", Время
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch118/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJarUxV_cDa7YpVQ7AM_h8NcIgncuOOEuUodAMfr4tlme
+#EXTINF:0 tvg-id="HТB Cтиль"  tvg-logo="http://team.ga/images/chIcons/120.png"  timeshift="0", HТB Cтиль
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch120/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTT520ipmyURZdUQs2dLgc8fzAg133w_aPC5LmWRNDiw
+#EXTINF:0 tvg-id="НTВ Mир"  tvg-logo="http://team.ga/images/chIcons/392.png"  timeshift="3", НTВ Mир
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch392/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdru0lD6hyAt9nXJxUz_FoWC-qyDbdMMhyKwdffn49Dv
+#EXTINF:0 tvg-id="НTВ Правo"  tvg-logo="http://team.ga/images/chIcons/612.png"  timeshift="0", НTВ Правo
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch612/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJfN0_3kRNxKkqG8MFIQ_u06uFfvhFC_-GOslAeVqgXqo
+#EXTINF:0 tvg-id="Мир HD"  tvg-logo="http://team.ga/images/chIcons/729.png"  timeshift="3", Мир HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch729/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXI1jqLrLPNkDyyHkWnso34YlbPO-ZzZHnku1Leflg_z
+#EXTINF:0 tvg-id="Мир +2"  tvg-logo="http://team.ga/images/chIcons/403.png"  timeshift="0", Мир +2
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch403/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXMWQezArYQxgF5uOfeTUuZOyMhqYolZu9Gn7A7qFPhB
+#EXTINF:0 tvg-id="Мир +6"  tvg-logo="http://team.ga/images/chIcons/404.png"  timeshift="0", Мир +6
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch404/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcUMQc0FcqfQ9Miv7CkLkozftJBntdKP7ttksK9vJkPh
+#EXTINF:0 tvg-id="ОТР"  tvg-logo="http://team.ga/images/chIcons/405.png"  timeshift="0", ОТР
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch405/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJecYAAuYCAI9Qx2zNOKobMdmQzQ64FXQF5y8h5-o7W_z
+#EXTINF:0 tvg-id="Суббота HD"  tvg-logo="http://team.ga/images/chIcons/414.png"  timeshift="3", Суббота HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch414/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdYnHuUxhcEXZnp52eJeXtSA2nRSTgnzc9M7V51ANKVd
+#EXTINF:0 tvg-id="Суббота +2"  tvg-logo="http://team.ga/images/chIcons/415.png"  timeshift="0", Суббота +2
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch415/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJX0o5VX5CvZjuJtSjdMPyqYE-7iRrGtXZEYhymzT0kN9
+#EXTINF:0 tvg-id="Ю"  tvg-logo="http://team.ga/images/chIcons/420.png"  timeshift="3", Ю
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch420/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUM38t1RREc08Lhj45B05YCcvbrnULKmk8H-ENzaaiou
+#EXTINF:0 tvg-id="Вопросы и ответы"  tvg-logo="http://team.ga/images/chIcons/426.png"  timeshift="0", Вопросы и ответы
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch426/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZVS3AynZ7VSGOdSjxMKuA12JOCw2FPTeuch4SyXEo3E
+#EXTINF:0 tvg-id="DetectiveJam HD"  tvg-logo="http://team.ga/images/chIcons/1800.png"  timeshift="3", DetectiveJam HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch1800/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdb-Mwkk0r_PsWPfOPUvGspfCEhe6cvY1KaePoN_pPex
+#EXTINF:0 tvg-id="RTД HD"  tvg-logo="http://team.ga/images/chIcons/439.png"  timeshift="0", RTД HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch439/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdFSvBkje1448ILxTDo3XKPUUOcMDsBYstu93ks94DKO
+#EXTINF:0 tvg-id="Авто плюс HD"  tvg-logo="http://team.ga/images/chIcons/456.png"  timeshift="3", Авто плюс HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch456/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf7DuVATPWn9b9G3yZzjXxVyoCcJnSu7ojLWZRJ6EKdu
+#EXTINF:0 tvg-id="E TV"  tvg-logo="http://team.ga/images/chIcons/503.png"  timeshift="0", E TV
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch503/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSkMFMEpyHA36DB4rofy3UKUbyHFiozFY3ygjiIQ9pY7
+#EXTINF:0 tvg-id="Точка ТВ"  tvg-logo="http://team.ga/images/chIcons/507.png"  timeshift="0", Точка ТВ
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch507/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYiGWxMqMsF94ox_UujFCWK3ks62dYN8wShtiXcZbdim
+#EXTINF:0 tvg-id="360 HD"  tvg-logo="http://team.ga/images/chIcons/516.png"  timeshift="0", 360 HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch516/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJY1bSZfJgdc96pp3rKke2cB0oRG3Cyker17wa6QLTs22
+#EXTINF:0 tvg-id="Спас"  tvg-logo="http://team.ga/images/chIcons/517.png"  timeshift="3", Спас
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch517/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUhJvJvVTajQRyPr3IQdfECuyJqyUF2eRtcfDTPY7502
+#EXTINF:0 tvg-id="Три Ангела"  tvg-logo="http://team.ga/images/chIcons/3329.png"  timeshift="0", Три Ангела
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3329/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRiBZHJpZennlVpiVc5oc_ByX55B22ve8c5g5m-yl-ST
+#EXTINF:0 tvg-id="Союз"  tvg-logo="http://team.ga/images/chIcons/518.png"  timeshift="0", Союз
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch518/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU7BVoymy4P8-paojeNQ4oND4Fluw2VrHm3T9pTQudrb
+#EXTINF:0 tvg-id="Доверие"  tvg-logo="http://team.ga/images/chIcons/534.png"  timeshift="0", Доверие
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch534/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcGTzAczIIpgkpiWPjmaZ3SYD0Nkz1htoqH4pkLEEElH
+#EXTINF:0 tvg-id="Красная линия"  tvg-logo="http://team.ga/images/chIcons/540.png"  timeshift="0", Красная линия
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch540/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUUe47e6BBt9ykLsV4qY2TjF8q6f22KDyGjgQJ7Da-88
+#EXTINF:0 tvg-id="ЛДПР ТВ"  tvg-logo="http://team.ga/images/chIcons/541.png"  timeshift="0", ЛДПР ТВ
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch541/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSXe58Z1PRH3KL5neKVmjXU7gvnRk7fa1CysddbOwSq0
+#EXTINF:0 tvg-id="Ювелирочка"  tvg-logo="http://team.ga/images/chIcons/546.png"  timeshift="0", Ювелирочка
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch546/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVI89G_J3mbTZeNyCJ_IlTVNJXbBsts9OooaUHYpS_HO
+#EXTINF:0 tvg-id="Fashion TV HD"  tvg-logo="http://team.ga/images/chIcons/550.png"  timeshift="0", Fashion TV HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch550/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXzfXoueRAcmWbgWRVCQm_dBpIkbsgk3qzMaT1quOPt3
+#EXTINF:0 tvg-id="Кто есть кто"  tvg-logo="http://team.ga/images/chIcons/616.png"  timeshift="3", Кто есть кто
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch616/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJWPUx6UDr_ZDBc1ljy7i6YZQWA9FiGnStF-KL6HxrRo2
+#EXTINF:0 tvg-id="Психология"  tvg-logo="http://team.ga/images/chIcons/625.png"  timeshift="3", Психология
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch625/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbNQy2eh6griZqkqteJYrbfYKGgsUZ-XeDiGbi8wmLfh
+#EXTINF:0 tvg-id="Успех"  tvg-logo="http://team.ga/images/chIcons/628.png"  timeshift="0", Успех
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch628/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVETkJwmKI4C_ZCoCeQWeKtgFOna6iKZk_JlyxPAycp8
+#EXTINF:0 tvg-id="Перец International"  tvg-logo="http://team.ga/images/chIcons/633.png"  timeshift="0", Перец International
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch633/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRlRJgk-hrb9rFhnA6LVHG9ZlyjzFtVz7zLU65ORDlHc
+#EXTINF:0 tvg-id="Анекдот ТВ"  tvg-logo="http://team.ga/images/chIcons/1524.png"  timeshift="0", Анекдот ТВ
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch1524/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJenqTME9YNHvNm2T4yjNNZ78IJYnyufhCbdDOtdo6D3K
+#EXTINF:0 tvg-id="Зал Суда"  tvg-logo="http://team.ga/images/chIcons/1879.png"  timeshift="0", Зал Суда
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch1879/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQj7MWRXKUKbnjKvwKNfPn4L4-DksUGfy885jhE9H7K7
+#EXTINF:0 tvg-id="Ключ ТВ HD"  tvg-logo="http://team.ga/images/chIcons/2307.png"  timeshift="0", Ключ ТВ HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2307/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJcwkO7E-62I4bPtRlFX9MsxMeP_gkgrs1Xi6WcJjjTbf
+#EXTINF:0 tvg-id="Ратник HD"  tvg-logo="http://team.ga/images/chIcons/3320.png"  timeshift="0", Ратник HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3320/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZRTgseWLAA3uH8-X3IfICKDvnpOdf7fP8ZBFfu-GQpT
+#EXTINF:0 tvg-id="Плюс Минус 16 HD"  tvg-logo="http://team.ga/images/chIcons/3326.png"  timeshift="0", Плюс Минус 16 HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3326/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQst6pBHloM_gIhsOyVrbYcsVJSNU_poUuMMpIiqZQVE
+#EXTINF:0 tvg-id="Epic HD"  tvg-logo="http://team.ga/images/chIcons/3328.png"  timeshift="0", Epic HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3328/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJT6q43XqH3iHMQLeCXUTI_3zYQa6MqB7bDz4Hp5LO4S_
+#EXTINF:0 tvg-id="ТНВ Планета"  tvg-logo="http://team.ga/images/chIcons/3322.png"  timeshift="0", ТНВ Планета
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3322/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbL4oek1z9r_8fSy98aoyNE2CAI4kgq6IcWF_ygkr3sl
+#EXTINF:0 tvg-id="Арт"  tvg-logo="http://team.ga/images/chIcons/3325.png"  timeshift="0", Арт
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3325/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJf_WKjJAVTdGUA6ahMxYHVPDKak4WFJgF91Cd-K9o6X4
+#EXTINF:0 tvg-id="TVM Channel"  tvg-logo="http://team.ga/images/chIcons/3327.png"  timeshift="0", TVM Channel
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3327/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJftTagSchpd8UWlW6gbvvK-JRzggQEw4X8A_2xLawGNX
+#EXTINF:0 tvg-id="MM Relax HD"  tvg-logo="http://team.ga/images/chIcons/1235.png"  timeshift="0", MM Relax HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch1235/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSnnRZxVxphBsmqcFgws8SVNRNiaGa2rqtoDL3g1oGCz
+#EXTINF:0 tvg-id="MM OldSchool HD"  tvg-logo="http://team.ga/images/chIcons/1953.png"  timeshift="3", MM OldSchool HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch1953/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJYyhDqokorexR5mDKpXlJQXncWfmE7P_V2mzWhsElHby
+#EXTINF:0 tvg-id="Sky High Standup HD"  tvg-logo="http://team.ga/images/chIcons/1985.png"  timeshift="3", Sky High Standup HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch1985/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJVtLtwI0AKb_z8Kc4D5izijVroya9VS2t6M5RRJ3VIGZ
+#EXTINF:0 tvg-id="KLI Humor HD"  tvg-logo="http://team.ga/images/chIcons/2262.png"  timeshift="3", KLI Humor HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2262/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJQ-A2SqMHd410gnqylNHvLw-KMV5brUo5XA42Pplkqgi
+#EXTINF:0 tvg-id="KLI Docu HD"  tvg-logo="http://team.ga/images/chIcons/2263.png"  timeshift="3", KLI Docu HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2263/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJaljcKJej1Zxs8Lxh0K0BL50I2YHqF0wvOx6cAhUoAZb
+#EXTINF:0 tvg-id="KLI Орел и Решка"  tvg-logo="http://team.ga/images/chIcons/2933.png"  timeshift="3", KLI Орел и Решка
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2933/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJY8djXcLc2H8QwKFld0zOzQxb47ii9ThIKFZBtcdJoV7
+#EXTINF:0 tvg-id="Yosso TV Food"  tvg-logo="http://team.ga/images/chIcons/2603.png"  timeshift="0", Yosso TV Food
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2603/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSgi3S3kleKJGJVAwtNPmkMSvEl1w6mxLgLJN8l5TguS
+#EXTINF:0 tvg-id="BOX Docu. HD"  tvg-logo="http://team.ga/images/chIcons/2286.png"  timeshift="3", BOX Docu. HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2286/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdvCpoWD92DEowXvF36UfS0ZFwSYEyFanuDuYP82jHqs
+#EXTINF:0 tvg-id="BOX Game HD"  tvg-logo="http://team.ga/images/chIcons/2289.png"  timeshift="3", BOX Game HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2289/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUZdLBpHigrvVH8qXAgiVCvKIKugt1QbTJ19gsDPpCgW
+#EXTINF:0 tvg-id="Oasis Друзья Друзя"  tvg-logo="http://team.ga/images/chIcons/2661.png"  timeshift="3", Oasis Друзья Друзя
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2661/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJR9-6TtO_Dj5FPwOuMBtZcqykT_JJMW0YPTRazictiO_
+#EXTINF:0 tvg-id="KBC +100500"  tvg-logo="http://team.ga/images/chIcons/2830.png"  timeshift="3", KBC +100500
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch2830/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJehTXexVe7jpB22ontu_T7X_hMiWwNNLIBV_wbEUYeZQ
+#EXTINF:0 tvg-id="SkyCam 100500"  tvg-logo="http://team.ga/images/chIcons/3147.png"  timeshift="3", SkyCam 100500
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3147/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJb2sO04UF-P0wKskBqw1RYYpCve-mJBUPe2zs8dRYVPN
+#EXTINF:0 tvg-id="SkyCam Relax"  tvg-logo="http://team.ga/images/chIcons/3281.png"  timeshift="3", SkyCam Relax
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3281/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZG6TjsE5u5nnXgTmwlBBZcMOQR7grClp85dye5QINjJ
+#EXTINF:0 tvg-id="SochiLive.TV HD"  tvg-logo="http://team.ga/images/chIcons/3324.png"  timeshift="0", SochiLive.TV HD
+#EXTGRP:12. Rest/Прочее
+http://4.team.ga:80/ch3324/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJTpTVYWkeSnzHnqU6vm_7j2t4TIZ9wxk5FK3Um8K0Dtn
+#EXTINF:0 tvg-id="BY: Беларусь 1 HD"  tvg-logo="http://team.ga/images/chIcons/562.png"  timeshift="3", BY: Беларусь 1 HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch562/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUJAZZz-5CAbBEhsS9UcKf9GsSiCckv7BI8EGmodLAk9
+#EXTINF:0 tvg-id="BY: Беларусь 2 HD"  tvg-logo="http://team.ga/images/chIcons/564.png"  timeshift="3", BY: Беларусь 2 HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch564/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZ7ryaznAlWZbhObyyY5cfwyIs-q-LZriFpwEATZiKwM
+#EXTINF:0 tvg-id="BY: Беларусь 3 HD"  tvg-logo="http://team.ga/images/chIcons/565.png"  timeshift="3", BY: Беларусь 3 HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch565/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSj93Zn6nHP2XhQJaJFMBhE8Cwl9vmHHXiRTNqv4wz2u
+#EXTINF:0 tvg-id="BY: Беларусь 5 HD"  tvg-logo="http://team.ga/images/chIcons/473.png"  timeshift="3", BY: Беларусь 5 HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch473/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSWXXekGTJYRGabv0MXRcsHboEUD-_9MmxdidzEJMqmk
+#EXTINF:0 tvg-id="BY: Беларусь 24"  tvg-logo="http://team.ga/images/chIcons/583.png"  timeshift="0", BY: Беларусь 24
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch583/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJavbE1vi1YAOly3RemPbMUGoDXnUvux3VfjcUQGnMcGn
+#EXTINF:0 tvg-id="BY: РТР HD"  tvg-logo="http://team.ga/images/chIcons/563.png"  timeshift="3", BY: РТР HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch563/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJSnbQlfO9FiQkiwXYLwR_bAFEeiMihWgjdy3x_25xafh
+#EXTINF:0 tvg-id="BY: ОНТ HD"  tvg-logo="http://team.ga/images/chIcons/561.png"  timeshift="3", BY: ОНТ HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch561/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJShHi2zHEEBkU0pFBI0z3q1JNjHGJO1cWpWySpjDmfaN
+#EXTINF:0 tvg-id="BY: БелРос"  tvg-logo="http://team.ga/images/chIcons/584.png"  timeshift="3", BY: БелРос
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch584/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJciJgVp-zcMW6jWpmC5ja1Nrr7zG-dtiE6a7-knOD7rA
+#EXTINF:0 tvg-id="BY: 8 Канал HD"  tvg-logo="http://team.ga/images/chIcons/611.png"  timeshift="0", BY: 8 Канал HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch611/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJdLzA0N7QjDE7TAZ6p2ivdHbb-YZqexZrx1nGfNi7aO_
+#EXTINF:0 tvg-id="BY: СТВ HD"  tvg-logo="http://team.ga/images/chIcons/713.png"  timeshift="3", BY: СТВ HD
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch713/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJatirMD0YtyV92kfwgKw3sWvu2ge31de9gHFzuuaRwv9
+#EXTINF:0 tvg-id="BY: Белсат ТВ"  tvg-logo="http://team.ga/images/chIcons/726.png"  timeshift="3", BY: Белсат ТВ
+#EXTGRP:21. Belarus
+http://4.team.ga:80/ch726/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJbaMuDUALyqkfdxof4K4-0qr8e38p2YJ-RXAknQWGI6e
+#EXTINF:0 tvg-id="KZ: Первый Канал Евразия"  tvg-logo="http://team.ga/images/chIcons/1672.png"  timeshift="3", KZ: Первый Канал Евразия
+#EXTGRP:22. Kazakhstan
+http://4.team.ga:80/ch1672/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJRv7DLQQIuRaW27dn6oKC7qm1dqYEWs03J4lLaLNSvBM
+#EXTINF:0 tvg-id="KZ: Премиум Кино HD"  tvg-logo="http://team.ga/images/chIcons/2335.png"  timeshift="3", KZ: Премиум Кино HD
+#EXTGRP:22. Kazakhstan
+http://4.team.ga:80/ch2335/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJXEfJMyiUZpOw4gUG0mRhLqUI_hnSjuocn7fTtfLVHN9
+#EXTINF:0 tvg-id="KZ: Кино Боевик HD"  tvg-logo="http://team.ga/images/chIcons/2309.png"  timeshift="3", KZ: Кино Боевик HD
+#EXTGRP:22. Kazakhstan
+http://4.team.ga:80/ch2309/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJUnY64VLGkFUHqP5DIOeawgQLanHwNjMNqAj0WA3Im57
+#EXTINF:0 tvg-id="KZ: Семейное Кино HD"  tvg-logo="http://team.ga/images/chIcons/2308.png"  timeshift="3", KZ: Семейное Кино HD
+#EXTGRP:22. Kazakhstan
+http://4.team.ga:80/ch2308/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJU5opm8RKQTY56aqggFP2UAqDsUob6Cvxj8Ztia-Djks
+#EXTINF:0 tvg-id="KZ: Мировое Кино HD"  tvg-logo="http://team.ga/images/chIcons/2013.png"  timeshift="3", KZ: Мировое Кино HD
+#EXTGRP:22. Kazakhstan
+http://4.team.ga:80/ch2013/mono.m3u8?token=bromanus.fgfrmrHcxKcKWjFAoRZSJZ4_xoBDiR2WSasR7jGznCcx_lgpKB1EIkXvZuhySDY_
